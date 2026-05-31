@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lore/Clans/Mekhet.md","permalink":"/lore/clans/mekhet/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/core/universal-lore/clans/mekhet/","dg-note-properties":{}}
 ---
 
 #clan 

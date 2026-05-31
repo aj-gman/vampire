@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lore/Covenants/Ordo Dracul.md","permalink":"/lore/covenants/ordo-dracul/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/core/universal-lore/covenants/ordo-dracul/","dg-note-properties":{}}
 ---
 
 #covenant **of vampire scholars and thaumaturges using their quasi-Disciplines known as "Coils" in order to master the vampiric condition. Often isolated from the greater vampiric society, the Ordo Dracul claim to descend from the great Dracula, following in his footsteps to achieve the Great Work.**

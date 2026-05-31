@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lore/Clans/Gangrel.md","permalink":"/lore/clans/gangrel/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/core/universal-lore/clans/gangrel/","dg-note-properties":{}}
 ---
 
 #clan 

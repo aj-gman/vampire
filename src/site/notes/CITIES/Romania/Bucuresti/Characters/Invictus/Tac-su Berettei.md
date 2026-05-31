@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/invictus/tac-su-berettei/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Tac-su Berettei.md","permalink":"/bucuresti/characters/invictus/tac-su-berettei/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

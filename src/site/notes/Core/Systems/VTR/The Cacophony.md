@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/systems/vtr/the-cacophony/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Mechanics/The Cacophony.md","permalink":"/mechanics/the-cacophony/","dg-note-properties":{}}
 ---
 
 Mortals walk the streets, and there is a humming in the back of their lizard brains. A music in the graffiti, in the underground performance art, in the rhymes penned on bathroom stalls, flyers blowing as discordant notes on the wind. 

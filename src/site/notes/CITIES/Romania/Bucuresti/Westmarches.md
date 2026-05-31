@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/westmarches/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Westmarches.md","permalink":"/bucuresti/westmarches/","dg-note-properties":{}}
 ---
 
 ## [Principles](https://www.reddit.com/r/DMAcademy/comments/6u5403/guide_how_to_run_a_successful_online_west/)

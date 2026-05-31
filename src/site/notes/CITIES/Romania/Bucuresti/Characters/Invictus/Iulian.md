@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/invictus/iulian/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Iulian.md","permalink":"/bucuresti/characters/invictus/iulian/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/clans/ventrue/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Lore/Clans/Ventrue.md","permalink":"/lore/clans/ventrue/","dg-note-properties":{}}
 ---
 
 #clan 

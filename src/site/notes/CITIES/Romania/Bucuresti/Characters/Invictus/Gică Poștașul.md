@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/invictus/gica-postasul/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Gică Poștașul.md","permalink":"/bucuresti/characters/invictus/gica-postasul/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

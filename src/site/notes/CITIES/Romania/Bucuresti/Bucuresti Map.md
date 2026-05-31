@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/bucuresti-map/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Bucuresti Map.md","permalink":"/bucuresti/bucuresti-map/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 Map of [[CITIES/Romania/Bucuresti/Bucuresti\|Bucuresti]] containing the [[CITIES/Romania/Bucuresti/B-Vampyramid.canvas\|B-Vampyramid.canvas]], as well as all of the covenants' areas of operation.

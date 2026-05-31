@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/ordo-dracul/fratii-manole/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/Frații Manole.md","permalink":"/bucuresti/characters/ordo-dracul/fratii-manole/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

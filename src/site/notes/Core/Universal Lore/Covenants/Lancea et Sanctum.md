@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/covenants/lancea-et-sanctum/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Lore/Covenants/Lancea et Sanctum.md","permalink":"/lore/covenants/lancea-et-sanctum/","dg-note-properties":{}}
 ---
 
 #covenant **of religious worshippers, centered around the figure of Longinus, the Roman centurion that stabbed Jesus on the cross and repented afterwards[^1]**. The members of the Lancea are pastors, priests and soldiers but, above all, they are shepherds, guiding God's flock, both Kindred and kine, away from sin, although this can often result in misguided responses derived from their own trauma and principles. The Lancea is the most content with [the state of undead](https://gmantabletops.miraheze.org/wiki/The_Curse "The Curse"), seeing themselves inevitably cursed in order to rise above their condition and please God. They are loyal to a fault, willing to die for their cause and for their brothers and sisters with the belief that it serves a higher purpose.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/clans/daeva/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Lore/Clans/Daeva.md","permalink":"/lore/clans/daeva/","dg-note-properties":{}}
 ---
 
 #clan

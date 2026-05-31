@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/lancea/sburatorul/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Lancea/Sburatorul.md","permalink":"/bucuresti/characters/lancea/sburatorul/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

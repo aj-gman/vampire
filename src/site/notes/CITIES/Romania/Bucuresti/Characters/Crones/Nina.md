@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/crones/nina/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Crones/Nina.md","permalink":"/bucuresti/characters/crones/nina/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

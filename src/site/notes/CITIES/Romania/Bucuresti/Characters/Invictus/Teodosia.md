@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/invictus/teodosia/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Teodosia.md","permalink":"/bucuresti/characters/invictus/teodosia/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti #dead 

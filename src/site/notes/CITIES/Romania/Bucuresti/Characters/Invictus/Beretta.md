@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/invictus/beretta/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Beretta.md","permalink":"/bucuresti/characters/invictus/beretta/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

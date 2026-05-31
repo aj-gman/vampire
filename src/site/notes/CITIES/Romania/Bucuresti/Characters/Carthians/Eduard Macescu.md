@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/carthians/eduard-macescu/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Eduard Macescu.md","permalink":"/bucuresti/characters/carthians/eduard-macescu/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

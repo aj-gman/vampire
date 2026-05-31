@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/crones/benz/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Crones/Benz.md","permalink":"/bucuresti/characters/crones/benz/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

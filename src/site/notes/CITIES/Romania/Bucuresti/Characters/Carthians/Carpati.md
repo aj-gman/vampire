@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/carthians/carpati/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Carpati.md","permalink":"/bucuresti/characters/carthians/carpati/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

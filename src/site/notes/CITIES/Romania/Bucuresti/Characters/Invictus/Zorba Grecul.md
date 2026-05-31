@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/invictus/zorba-grecul/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Zorba Grecul.md","permalink":"/bucuresti/characters/invictus/zorba-grecul/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

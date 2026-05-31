@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/ordo-dracul/christofor-cantacuzino/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/Christofor Cantacuzino.md","permalink":"/bucuresti/characters/ordo-dracul/christofor-cantacuzino/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

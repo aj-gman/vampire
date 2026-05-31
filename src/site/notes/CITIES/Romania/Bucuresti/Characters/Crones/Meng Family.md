@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/crones/meng-family/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Crones/Meng Family.md","permalink":"/bucuresti/characters/crones/meng-family/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/covenants/carthian-movement/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Lore/Covenants/Carthian Movement.md","permalink":"/lore/covenants/carthian-movement/","dg-note-properties":{}}
 ---
 
 #covenant of vampires gathered together under one objective: make unlife better. The first step is agreed upon by all Carthians: equality. What comes next is a matter of vision and personal differences - Carthians may argue amongst themselves, but they always project a crisp, solid image outwards. The more, the merrier: they genuinely believe they'll figure out what political project they put forth once they're already in office. First, however, the Prince must step down or be overthrown.

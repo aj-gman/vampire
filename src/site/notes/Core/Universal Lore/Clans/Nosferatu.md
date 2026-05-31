@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/clans/nosferatu/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Lore/Clans/Nosferatu.md","permalink":"/lore/clans/nosferatu/","dg-note-properties":{}}
 ---
 
 #clan 

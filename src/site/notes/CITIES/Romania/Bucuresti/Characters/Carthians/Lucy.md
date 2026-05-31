@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/carthians/lucy/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Lucy.md","permalink":"/bucuresti/characters/carthians/lucy/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

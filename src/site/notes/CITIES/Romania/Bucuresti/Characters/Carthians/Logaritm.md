@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/carthians/logaritm/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Logaritm.md","permalink":"/bucuresti/characters/carthians/logaritm/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti 

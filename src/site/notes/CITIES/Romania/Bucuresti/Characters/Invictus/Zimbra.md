@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/invictus/zimbra/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Zimbra.md","permalink":"/bucuresti/characters/invictus/zimbra/","dg-note-properties":{}}
 ---
 
 #npc #bucuresti #dead  

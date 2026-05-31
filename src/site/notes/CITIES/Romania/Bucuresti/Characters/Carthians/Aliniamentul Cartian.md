@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/carthians/aliniamentul-cartian/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Aliniamentul Cartian.md","permalink":"/bucuresti/characters/carthians/aliniamentul-cartian/","dg-note-properties":{}}
 ---
 
 #faction in [[Core/Universal Lore/Covenants/Carthian Movement\|Carthian Movement]] ([[CITIES/Romania/Bucuresti/Bucuresti\|Bucuresti]])

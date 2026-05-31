@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/characters/ordo-dracul/the-great-architect/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/The Great Architect.md","permalink":"/bucuresti/characters/ordo-dracul/the-great-architect/","dg-note-properties":{}}
 ---
 
 *RO: Marele Arhitect-Voievod*

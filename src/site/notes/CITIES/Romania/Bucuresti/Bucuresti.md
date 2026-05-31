@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/bucuresti/bucuresti/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Bucuresti.md","permalink":"/bucuresti/bucuresti/","dg-note-properties":{}}
 ---
 
 #bucuresti, #city of joy, or so it was foretold. 

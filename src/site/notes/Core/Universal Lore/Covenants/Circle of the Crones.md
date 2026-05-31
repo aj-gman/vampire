@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/covenants/circle-of-the-crones/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Lore/Covenants/Circle of the Crones.md","permalink":"/lore/covenants/circle-of-the-crones/","dg-note-properties":{}}
 ---
 
 RO: **Ciorile, Gheonoaiele**

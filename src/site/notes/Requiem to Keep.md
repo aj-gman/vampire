@@ -28,7 +28,7 @@ p. 249-349
 p. 101-105
 - Rules for rewarding Engagement 
 
-#### Corebook
+### Corebook
 ##### Mechanics
 p. 84-87 Mask & Dirge
 this is a mixed bag for me - sometimes the mask & dirge actually inform my character decisions, but sometimes they feel pointless when my character breaks out of their mold; since they are the only way to recover Willpower, it's a good way to encourage the Player to stick to their beliefs and their personality

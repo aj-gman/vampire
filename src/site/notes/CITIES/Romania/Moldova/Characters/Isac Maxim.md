@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities/romania/moldova/characters/isac-maxim/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Moldova/Characters/Isac Maxim.md","permalink":"/moldova/characters/isac-maxim/","tags":["#npc","#moldova"],"dg-note-properties":{"tags":["#npc","#moldova"]}}
 ---
 
 #npc #moldova

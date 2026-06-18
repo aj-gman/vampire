@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/Lucia.md","permalink":"/bucuresti/characters/ordo-dracul/lucia/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/Lucia.md","permalink":"/bucuresti/characters/ordo-dracul/lucia/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Daeva\|Daeva]]","bloodline":"[[Volgirre]]","covenant":"[[Ordo Dracul]]"}}
 ---
 
 #npc #bucuresti 
@@ -7,3 +7,4 @@
 
 - Childer: [[CITIES/Romania/Bucuresti/Characters/Carthians/Logaritm\|Logaritm]]
 - Siblings: [[CITIES/Romania/Bucuresti/Characters/Crones/Benz\|Benz]]
+![NPC-Lucia.png](/img/user/Pictures/NPC-Lucia.png)

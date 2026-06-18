@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Zimbra.md","permalink":"/bucuresti/characters/invictus/zimbra/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Zimbra.md","permalink":"/bucuresti/characters/invictus/zimbra/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Ventrue]]","bloodline":"[[Lasombra]]","covenant":"[[Invictus]]"}}
 ---
 
-#npc #bucuresti #dead  
-[[Core/Universal Lore/Clans/Ventrue\|Ventrue]], [[Core/Universal Lore/Clans/Lasombra\|Lasombra]], [[Core/Universal Lore/Covenants/Invictus\|Invictus]]
+#dead  
 Sire of [[CITIES/Romania/Bucuresti/Characters/Invictus/Tac-su Berettei\|Tac-su Berettei]], Grand-Sire of [[CITIES/Romania/Bucuresti/Characters/Invictus/Beretta\|Beretta]], Childer of [[Episcopul Andrei\|Episcopul Andrei]]
 
 Alder[^1] Duchess[^2]

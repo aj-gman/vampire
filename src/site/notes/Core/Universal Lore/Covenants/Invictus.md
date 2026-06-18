@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/covenants/invictus/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/core/universal-lore/covenants/invictus/","tags":["covenant","bucuresti","louisiana","moldova","rome"],"dg-note-properties":{"tags":["covenant","bucuresti","louisiana","moldova","rome"]}}
 ---
 
-#covenant of successful entrepreneurs that are always on the bleeding edge of the rise. Schemers, spies, politicians, businessmen, everything that gives them more power, they've got a plan for it. Modern regalia, they're perhaps the most inclusive of the Covenants. Anyone who can take the power should do so - every night, from sunset to sunrise. It would be a shame to try to put a [[Core/Universal Lore/Clans/Gangrel\|Gangrel]] in a suit when he belongs on the street, cutting shady deals. Survival of the fittest constructs the most competent hierarchy.
+Convenant of successful entrepreneurs that are always on the bleeding edge of the rise. Schemers, spies, politicians, businessmen, everything that gives them more power, they've got a plan for it. Modern regalia, they're perhaps the most inclusive of the Covenants. Anyone who can take the power should do so - every night, from sunset to sunrise. It would be a shame to try to put a [[Core/Universal Lore/Clans/Gangrel\|Gangrel]] in a suit when he belongs on the street, cutting shady deals. Survival of the fittest constructs the most competent hierarchy.
 - **Advantage:** [Invictus Oaths](https://gmantabletops.miraheze.org/wiki/Invictus_Oaths "Invictus Oaths")
 - **Vibe:** Sleek, Honorbound, Technofeudal, Affluent, Machiavellian, Intriguing, Tactical
 - **Stereotypes:** Dirty Cop, Lawyer, Big Data Analyst, Government Man, Hard Worker, Authoritarian Oligarch, Shady Lobbyist, Protest Organizer, Gun Smuggler, Drug Dealer.

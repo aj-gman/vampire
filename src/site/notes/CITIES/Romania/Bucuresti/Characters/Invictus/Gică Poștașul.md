@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Gică Poștașul.md","permalink":"/bucuresti/characters/invictus/gica-postasul/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Gică Poștașul.md","permalink":"/bucuresti/characters/invictus/gica-postasul/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Mekhet]]","covenant":"[[Invictus]]"}}
 ---
 
-#npc #bucuresti 
-[[Core/Universal Lore/Clans/Mekhet\|Mekhet]], [[Core/Universal Lore/Covenants/Invictus\|Invictus]]
 
 
 

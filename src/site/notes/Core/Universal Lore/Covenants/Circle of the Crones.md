@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/covenants/circle-of-the-crones/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/core/universal-lore/covenants/circle-of-the-crones/","tags":["covenant","bucuresti","louisiana","moldova","rome"],"dg-note-properties":{"tags":["covenant","bucuresti","louisiana","moldova","rome"]}}
 ---
 
-RO: **Ciorile, Gheonoaiele**
-#covenant of outcasts and undesirables, banded together by the community they've formed around their forsaken status, Kindred or otherwise. Crones are universally hated and never understood. Somewhere, they're the anarchist rabble of the underclass that's being stepped on by the universal jackboot. Elsewhere, there's the peaceful community that has formed around the city's last park, protesting their right. Deep within the forests, they're the pagans dancing around a fire, singing cursed Irish ballads to summon the Dark Mother. They've all suffered at the hands of the majority, but they've got different responses to it: some want to be left alone to their own devices, some want revenge, some want a better world.
+**RO: Ciorile, Gheonoaiele**
+**Covenant of outcasts and undesirables, banded together by the community they've formed around their forsaken status, Kindred or otherwise. Crones are universally hated and never understood. Somewhere, they're the anarchist rabble of the underclass that's being stepped on by the universal jackboot. Elsewhere, there's the peaceful community that has formed around the city's last park, protesting their right. Deep within the forests, they're the pagans dancing around a fire, singing cursed Irish ballads to summon the Dark Mother. They've all suffered at the hands of the majority, but they've got different responses to it: some want to be left alone to their own devices, some want revenge, some want a better world.**
 
 #### Core
 - **Advantage:** [Crúac](https://gmantabletops.miraheze.org/wiki/Blood_Sorcery#Crúac "Blood Sorcery"), a type of [Blood Sorcery](https://gmantabletops.miraheze.org/wiki/Blood_Sorcery "Blood Sorcery")

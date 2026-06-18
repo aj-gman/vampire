@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Tac-su Berettei.md","permalink":"/bucuresti/characters/invictus/tac-su-berettei/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Tac-su Berettei.md","permalink":"/bucuresti/characters/invictus/tac-su-berettei/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Ventrue]]","bloodline":"[[Lasombra]]","covenant":"[[Invictus]]"}}
 ---
 
-#npc #bucuresti 
-[[Core/Universal Lore/Clans/Ventrue\|Ventrue]], [[Core/Universal Lore/Clans/Lasombra\|Lasombra]], [[Core/Universal Lore/Covenants/Invictus\|Invictus]]
 Baron[^2] Technologist[^1]
 
 Childer of [[CITIES/Romania/Bucuresti/Characters/Invictus/Zimbra\|Zimbra]], Sire of [[CITIES/Romania/Bucuresti/Characters/Invictus/Beretta\|Beretta]]

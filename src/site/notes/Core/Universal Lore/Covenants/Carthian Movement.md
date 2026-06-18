@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/covenants/carthian-movement/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/core/universal-lore/covenants/carthian-movement/","tags":["covenant","bucuresti","louisiana","moldova","rome"],"dg-note-properties":{"tags":["covenant","bucuresti","louisiana","moldova","rome"]}}
 ---
 
-#covenant of vampires gathered together under one objective: make unlife better. The first step is agreed upon by all Carthians: equality. What comes next is a matter of vision and personal differences - Carthians may argue amongst themselves, but they always project a crisp, solid image outwards. The more, the merrier: they genuinely believe they'll figure out what political project they put forth once they're already in office. First, however, the Prince must step down or be overthrown.
+**RO: Mișcarea, Cartienii**
+**Covenant of vampires gathered together under one objective: make unlife better. The first step is agreed upon by all Carthians: equality. What comes next is a matter of vision and personal differences - Carthians may argue amongst themselves, but they always project a crisp, solid image outwards. The more, the merrier: they genuinely believe they'll figure out what political project they put forth once they're already in office. First, however, the Prince must step down or be overthrown.**
 
 - **Advantage:** [Carthian Law](https://gmantabletops.miraheze.org/wiki/Carthian_Law "Carthian Law")
 - **Vibe:** Modern, Evergreen, Ever-changing, Passionate, Fluent, Smart, Chaotic

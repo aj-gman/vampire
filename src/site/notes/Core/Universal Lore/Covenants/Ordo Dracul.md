@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/covenants/ordo-dracul/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/core/universal-lore/covenants/ordo-dracul/","tags":["covenant","bucuresti","louisiana","moldova","rome"],"dg-note-properties":{"tags":["covenant","bucuresti","louisiana","moldova","rome"]}}
 ---
 
-#covenant **of vampire scholars and thaumaturges using their quasi-Disciplines known as "Coils" in order to master the vampiric condition. Often isolated from the greater vampiric society, the Ordo Dracul claim to descend from the great Dracula, following in his footsteps to achieve the Great Work.**
+**RO: Ordinul, Dragonii**
+**Covenant of vampire scholars and thaumaturges using their quasi-Disciplines known as "Coils" in order to master the vampiric condition. Often isolated from the greater vampiric society, the Ordo Dracul claim to descend from the great Dracula, following in his footsteps to achieve the Great Work.**
 
 #### Core
 - **Advantage:** [[Core/Systems/VTR/Quasi-Disciplines/Coils of the Dragon\|Coils of the Dragon]], twisted versions of [[Core/Systems/VTR/Quasi-Disciplines/Blood Sorcery\|Blood Sorcery]] that bleed life into the vampiric condition.
@@ -39,7 +40,7 @@ The Voivodes of Ordo Dracul do not care about appeasing the other covenants, but
 
 
 #### Structure
-- [[CITIES/Romania/Bucuresti/Characters/Ordo Dracul/The Great Architect\|The Great Architect]], known as Marele Voievod[^6].
+- [[CITIES/Romania/Bucuresti/Characters/Ordo Dracul/Generalul\|Generalul]], known as Marele Voievod[^6].
 	- Under him, the Sworn of Dracula fulfill the bureaucratic procedures.
 	- The [[CITIES/Romania/Bucuresti/Characters/Ordo Dracul/Sworn of Mysteries\|Sworn of Mysteries]] deals with social structures, communicating and following the other Covenants, holding roundtables and organizing conferences. 
 		- While this might seem to be his entire role, his more important work has to do with tracking, following and pinpointing each vampire's whereabouts, reminiscent of his past work with the [Securitate](https://en.wikipedia.org/wiki/Securitate).

@@ -4,3 +4,4 @@
 
 #npc #moldova
 arhiepiscop de chisinau
+10th gen Tzimisce, Tace si face ce-I spune piotr

@@ -9,5 +9,6 @@
 - ancillar
 - member of [[CITIES/Romania/Moldova/Organizations/Circulatory System\|Circulatory System]], organized crime, real estate mogul, psd-types, hates [[Haita Carnii\|Haita Carnii]]
 - low humanity, maybe paths
+- 11th gen Tzimisce, Real Estate mogul. Isi zideste victimele in cladiri. marchizul aeroportului
 
 ![NPC-osmochescu.png\|300](/img/user/Pictures/NPC-osmochescu.png)

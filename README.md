@@ -2,7 +2,10 @@
 This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden).
 See the README in the plugin repo for information on how to set it up.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+Live site: [aj-gman.github.io/vampire](https://aj-gman.github.io/vampire/)
+
+## Deployment
+The site is built and published from the `main` branch by [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml). In the repository settings, set **Pages > Build and deployment > Source** to **GitHub Actions**. The workflow publishes the generated `dist` directory.
 
 ---
 ## Docs

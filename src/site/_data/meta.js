@@ -1,11 +1,15 @@
 require("dotenv").config();
 const { globSync } = require("glob");
+const path = require("path");
+const { normalizeBasePath } = require("../../helpers/sitePath");
 
 module.exports = async (data) => {
   let baseUrl = process.env.SITE_BASE_URL || "";
   if (baseUrl && !baseUrl.startsWith("http")) {
     baseUrl = "https://" + baseUrl;
   }
+  baseUrl = baseUrl.replace(/\/+$/, "");
+  const siteUrl = `${baseUrl}${normalizeBasePath()}`;
   let themeStyle = globSync("src/site/styles/_theme.*.css")[0] || "";
 
   // Check for logo file (supports multiple image formats)
@@ -13,10 +17,10 @@ module.exports = async (data) => {
   let logoPath = "";
   if (logoFiles.length > 0) {
     // Use the first match and convert to site-relative path
-    logoPath = "/" + logoFiles[0].split("src/site/")[1];
+    logoPath = "/" + path.relative("src/site", logoFiles[0]).split(path.sep).join("/");
   }
   if (themeStyle) {
-    themeStyle = themeStyle.split("site")[1];
+    themeStyle = "/" + path.relative("src/site", themeStyle).split(path.sep).join("/");
   }
   let bodyClasses = [];
   let noteIconsSettings = {
@@ -98,6 +102,7 @@ module.exports = async (data) => {
     siteLogoPath: logoPath,
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
     siteBaseUrl: baseUrl,
+    siteUrl,
     styleSettingsCss,
     uiStrings,
     buildDate: new Date(),

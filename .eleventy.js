@@ -15,7 +15,8 @@ const matterOptions = {
     },
   },
 };
-const faviconsPlugin = require("eleventy-plugin-gen-favicons");
+const generateFavicons = require("eleventy-plugin-gen-favicons/favicon-gen");
+const renderFavicons = require("eleventy-plugin-gen-favicons/html-gen");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
@@ -27,6 +28,9 @@ const {
   userEleventySetup,
 } = require("./src/helpers/userSetup");
 const { basesPlugin } = require("./src/helpers/basesPlugin");
+const { normalizeBasePath, withBasePath, withoutBasePath } = require("./src/helpers/sitePath");
+
+const siteBasePath = normalizeBasePath();
 
 const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
@@ -353,6 +357,28 @@ module.exports = function(eleventyConfig) {
     return date && date.toISOString();
   });
 
+  eleventyConfig.addFilter("siteUrl", withBasePath);
+  eleventyConfig.addFilter("siteRootUrl", withoutBasePath);
+  let faviconGeneration;
+  eleventyConfig.addAsyncShortcode("favicons", async (sourceFile, options = {}) => {
+    if (!faviconGeneration) {
+      faviconGeneration = generateFavicons(sourceFile, "dist", options);
+    }
+    return renderFavicons(await faviconGeneration);
+  });
+  eleventyConfig.addFilter("sitePathHtml", function(content) {
+      const parsed = parse(content);
+      for (const element of parsed.querySelectorAll("[href], [src]")) {
+        for (const attribute of ["href", "src"]) {
+          const value = element.getAttribute(attribute);
+          if (value && value.startsWith("/") && !value.startsWith("//")) {
+            element.setAttribute(attribute, withBasePath(value));
+          }
+        }
+      }
+      return parsed.toString();
+  });
+
   eleventyConfig.addFilter("link", function(str) {
     return (
       str &&
@@ -546,13 +572,13 @@ module.exports = function(eleventyConfig) {
     if (!isMarkdownPage(this.page.inputPath)) {
       return str;
     }
-    if (process.env.USE_FULL_RESOLUTION_IMAGES === "true") {
-      return str;
-    }
     const parsed = parse(str);
     for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
       const src = imageTag.getAttribute("src");
-      if (src && src.startsWith("/") && !src.endsWith(".svg")) {
+      if (src && src.startsWith("/")) {
+        if (process.env.USE_FULL_RESOLUTION_IMAGES === "true" || /\.svg$/i.test(src)) {
+          continue;
+        }
         const cls = imageTag.classList.value;
         const alt = imageTag.getAttribute("alt");
         const width = imageTag.getAttribute("width") || '';
@@ -715,7 +741,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
@@ -770,6 +795,7 @@ module.exports = function(eleventyConfig) {
       output: "dist",
       data: `_data`,
     },
+    pathPrefix: siteBasePath ? `${siteBasePath}/` : "/",
     templateFormats: ["njk", "md", "11ty.js", "canvas"],
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,

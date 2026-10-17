@@ -191,7 +191,7 @@ function formatCellValue(value, column, row) {
 				}
 				// Unresolved link — render as dead link
 				const slug = item.replace(/^\/|\/$/g, "").split("/").pop() || item;
-				return `<a href="/404" class="internal-link is-unresolved">${escapeHtml(decodeURIComponent(slug))}</a>`;
+					return `<a href="/404" class="internal-link is-unresolved">${escapeHtml(decodeURIComponent(slug))}</a>`;
 			}
 			if (typeof item === "string" && !item.startsWith("/") && item.includes("/")) {
 				// Non-URL path with slashes (e.g. raw wikilink stem like "04 - PERMANENT/Note Name") — dead link

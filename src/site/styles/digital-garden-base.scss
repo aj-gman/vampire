@@ -289,7 +289,7 @@ body:has(.content.canvas-page) .filetree-wrapper {
 .external-link {
     background-position: center right;
     background-repeat: no-repeat;
-    background-image: linear-gradient(transparent, transparent), url("/img/outgoing.svg");
+    background-image: linear-gradient(transparent, transparent), url("../img/outgoing.svg");
     background-size: var(--dg-external-link-icon-size);
     padding-right: var(--dg-external-link-padding);
     background-position-y: 4px;

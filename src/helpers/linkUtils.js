@@ -1,3 +1,4 @@
+const { withBasePath } = require("./sitePath");
 const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 // Match iframe src for canvas embedded files (internal links only, not external URLs)
@@ -118,10 +119,11 @@ async function getGraph(data) {
     const content = templateContent?.content || "";
     noteContents.push(content);
 
-    nodes[v.url] = {
+    const noteUrl = withBasePath(v.url);
+    nodes[noteUrl] = {
       id: idx,
       title: v.data.title || v.fileSlug,
-      url: v.url,
+      url: noteUrl,
       group,
       home:
         v.data["dg-home"] ||
@@ -133,12 +135,12 @@ async function getGraph(data) {
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
       hide: v.data.hideInGraph || false,
     };
-    stemURLs[fpath] = v.url;
+    stemURLs[fpath] = noteUrl;
     if (
       v.data["dg-home"] ||
       (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
     ) {
-      homeAlias = v.url;
+      homeAlias = noteUrl;
     }
   }
 
@@ -176,7 +178,7 @@ async function getGraph(data) {
     const url = (urlToNode[item.url] || {});
     return {
       path: item.filePathStem.replace("/notes/", ""),
-      url: item.url,
+      url: withBasePath(item.url),
       metadata: item.data,
       fileSlug: item.fileSlug,
       // Inject computed link data for bases queries
@@ -191,14 +193,15 @@ async function getGraph(data) {
     const content = noteContents[idx];
     const basesLinks = extractBasesLinks(content, basesNotes);
     if (basesLinks.length > 0) {
-      const node = nodes[v.url];
+      const noteUrl = withBasePath(v.url);
+      const node = nodes[noteUrl];
       for (const blink of basesLinks) {
         if (!node.outBound.includes(blink)) {
           node.outBound.push(blink);
           let n = nodes[blink];
           if (n) {
-            if (!n.backLinks.includes(v.url)) n.backLinks.push(v.url);
-            if (!n.neighbors.includes(v.url)) n.neighbors.push(v.url);
+            if (!n.backLinks.includes(noteUrl)) n.backLinks.push(noteUrl);
+            if (!n.neighbors.includes(noteUrl)) n.neighbors.push(noteUrl);
             if (!node.neighbors.includes(blink)) node.neighbors.push(blink);
             links.push({ source: node.id, target: n.id });
           }

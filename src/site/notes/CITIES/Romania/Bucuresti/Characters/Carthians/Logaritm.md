@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Logaritm.md","permalink":"/bucuresti/characters/carthians/logaritm/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Neonate]]","clan":"[[Daeva]]","bloodline":"[[Volgirre]]","covenant":"[[Carthian Movement]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Logaritm.md","permalink":"/bucuresti/characters/carthians/logaritm/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Clans/Daeva]]","bloodline":"[[Core/Universal Lore/Clans/Bloodlines/Volgirre]]","covenant":"[[Core/Universal Lore/Covenants/Carthian Movement]]"}}
 ---
 
 ![npc-logaritm.jpg\|300](/img/user/Pictures/npc-logaritm.jpg)

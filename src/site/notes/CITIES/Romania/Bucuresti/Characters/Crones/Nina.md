@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Crones/Nina.md","permalink":"/bucuresti/characters/crones/nina/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Elder]]","clan":"[[Core/Universal Lore/Clans/Mekhet\|Mekhet]]","covenant":"[[Circle of the Crones]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Crones/Nina.md","permalink":"/bucuresti/characters/crones/nina/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Elder]]","clan":"[[Core/Universal Lore/Clans/Mekhet]]","covenant":"[[Core/Universal Lore/Covenants/Circle of the Crones]]"}}
 ---
 
 What appears to be a woman in her thirties is actually a [[Core/Universal Lore/Clans/Mekhet\|Mekhet]] of quite an age, pre-[[Core/Universal Lore/Covenants/Ordo Dracul\|Ordo Dracul]], who is said to have visions. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Moldova/Characters/Vera.md","permalink":"/moldova/characters/vera/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cities/romania/moldova/characters/vera/","dg-note-properties":{}}
 ---
 
 - anarch, [[CITIES/Romania/Moldova/Characters/Lidia\|Lidia]]

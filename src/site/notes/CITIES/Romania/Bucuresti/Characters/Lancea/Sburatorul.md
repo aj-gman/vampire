@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Lancea/Sburatorul.md","permalink":"/bucuresti/characters/lancea/sburatorul/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Daeva]]","covenant":"[[Lancea et Sanctum]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Lancea/Sburatorul.md","permalink":"/bucuresti/characters/lancea/sburatorul/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Daeva]]","covenant":"[[Core/Universal Lore/Covenants/Lancea et Sanctum]]"}}
 ---
 
 Does he, perhaps, suffer from [[Malkavia\|Malkavia]]?

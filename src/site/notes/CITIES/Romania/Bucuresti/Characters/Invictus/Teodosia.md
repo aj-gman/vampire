@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Teodosia.md","permalink":"/bucuresti/characters/invictus/teodosia/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Ventrue]]","covenant":"[[Invictus]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Teodosia.md","permalink":"/bucuresti/characters/invictus/teodosia/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Ventrue]]","covenant":"[[Core/Universal Lore/Covenants/Invictus]]"}}
 ---
 
 #dead 

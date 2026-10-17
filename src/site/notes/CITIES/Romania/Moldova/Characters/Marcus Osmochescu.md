@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Moldova/Characters/Marcus Osmochescu.md","permalink":"/moldova/characters/marcus-osmochescu/","tags":["#npc","#moldova"],"dg-note-properties":{"tags":["#npc","#moldova"]}}
+{"dg-publish":true,"permalink":"/cities/romania/moldova/characters/marcus-osmochescu/","dg-note-properties":{}}
 ---
 
 #npc #moldova

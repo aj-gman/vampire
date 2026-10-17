@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Moldova/Characters/Lidia.md","permalink":"/moldova/characters/lidia/","tags":["#npc","#moldova"],"dg-note-properties":{"tags":["#npc","#moldova"]}}
+{"dg-publish":true,"permalink":"/cities/romania/moldova/characters/lidia/","dg-note-properties":{}}
 ---
 
 #npc #moldova 

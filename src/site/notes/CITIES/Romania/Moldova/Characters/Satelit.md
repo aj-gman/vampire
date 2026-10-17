@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Moldova/Characters/Satelit.md","permalink":"/moldova/characters/satelit/","tags":["#npc","#moldova"],"dg-note-properties":{"tags":["#npc","#moldova"]}}
+{"dg-publish":true,"permalink":"/cities/romania/moldova/characters/satelit/","dg-note-properties":{}}
 ---
 
 #npc #moldova 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/Lucia.md","permalink":"/bucuresti/characters/ordo-dracul/lucia/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Daeva\|Daeva]]","bloodline":"[[Volgirre]]","covenant":"[[Ordo Dracul]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/Lucia.md","permalink":"/bucuresti/characters/ordo-dracul/lucia/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Daeva]]","bloodline":"[[Core/Universal Lore/Clans/Bloodlines/Volgirre]]","covenant":"[[Core/Universal Lore/Covenants/Ordo Dracul]]"}}
 ---
 
 #npc #bucuresti 

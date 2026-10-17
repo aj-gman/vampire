@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Iulian.md","permalink":"/bucuresti/characters/invictus/iulian/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Clans/Gangrel\|Gangrel]]","covenant":"[[Core/Universal Lore/Covenants/Invictus\|Invictus]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Iulian.md","permalink":"/bucuresti/characters/invictus/iulian/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Clans/Gangrel]]","covenant":"[[Core/Universal Lore/Covenants/Invictus]]"}}
 ---
 
 [[Core/Universal Lore/Clans/Gangrel\|Gangrel]], [[Core/Universal Lore/Covenants/Invictus\|Invictus]]

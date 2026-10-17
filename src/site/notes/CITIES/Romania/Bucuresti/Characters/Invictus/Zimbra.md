@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Zimbra.md","permalink":"/bucuresti/characters/invictus/zimbra/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Ventrue]]","bloodline":"[[Lasombra]]","covenant":"[[Invictus]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Invictus/Zimbra.md","permalink":"/bucuresti/characters/invictus/zimbra/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Ventrue]]","bloodline":"[[Core/Universal Lore/Clans/Bloodlines/Lasombra]]","covenant":"[[Core/Universal Lore/Covenants/Invictus]]"}}
 ---
 
 #dead  

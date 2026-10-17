@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Mihaela Ulmeanu.md","permalink":"/bucuresti/characters/carthians/mihaela-ulmeanu/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Mekhet\|Mekhet]]","covenant":"[[Core/Universal Lore/Covenants/Carthian Movement\|Carthian Movement]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Carthians/Mihaela Ulmeanu.md","permalink":"/bucuresti/characters/carthians/mihaela-ulmeanu/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Mekhet]]","covenant":"[[Core/Universal Lore/Covenants/Carthian Movement]]"}}
 ---
 
 #npc #bucuresti 

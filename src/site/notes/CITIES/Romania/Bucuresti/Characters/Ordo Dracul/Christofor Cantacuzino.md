@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/Christofor Cantacuzino.md","permalink":"/bucuresti/characters/ordo-dracul/christofor-cantacuzino/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Daeva]]","covenant":"[[Ordo Dracul]]"}}
+{"dg-publish":true,"dg-path":"Bucuresti/Characters/Ordo Dracul/Christofor Cantacuzino.md","permalink":"/bucuresti/characters/ordo-dracul/christofor-cantacuzino/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampire]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Clans/Daeva]]","covenant":"[[Core/Universal Lore/Covenants/Ordo Dracul]]"}}
 ---
 
 L-a omorat pe [[CITIES/Romania/Bucuresti/Characters/Invictus/Ciclop\|Ciclop]].

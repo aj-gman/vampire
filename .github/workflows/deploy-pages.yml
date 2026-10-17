@@ -28,6 +28,10 @@ jobs:
         env:
           SITE_BASE_PATH: /vampire/
           SITE_BASE_URL: https://aj-gman.github.io
+      # Disable Jekyll on the published output — this is an Eleventy (11ty) site,
+      # not Jekyll. Without this GitHub Pages would try to parse .njk templates
+      # as Liquid and fail with "Unknown operator meta".
+      - run: touch dist/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

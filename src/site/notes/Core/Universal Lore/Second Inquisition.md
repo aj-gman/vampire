@@ -8,8 +8,8 @@ The rise of the Second Inquisition has also seen "vampire" exit common Hunter pa
 
 ### Known Organizations
 ##### Alphabet Inquisition
-- [[CITIES/Louisiana/Organizations/Federal Bureau of Control\|Federal Bureau of Control]]
+- [[Federal Bureau of Control\|Federal Bureau of Control]]
 
 
 ##### The Coalition
-- [[CITIES/Louisiana/Organizations/Monster-X\|Monster-X]]
+- [[Monster-X\|Monster-X]]

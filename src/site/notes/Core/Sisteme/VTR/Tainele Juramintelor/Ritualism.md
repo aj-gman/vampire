@@ -4,18 +4,15 @@
 
 Taina in care se inscriu si [[Core/Sisteme/VTR/Tainele Juramintelor/Taumaturgie\|Taumaturgia]] si [[Core/Sisteme/VTR/Tainele Juramintelor/Vrajitorie\|Vrajitoria]].
 
-**Magia Sângelui** este un termen umbrelă pentru o varietate de ritualuri, trucuri și incantații care se încadrează în categoria **Cvasidisciplinelor**. Acestea nu sunt la fel de copleșitor de puternice ca Disciplines, dar nici nu pot fi accesate de simplii muritori fără cunoștințele corespunzătoare. Atât **Lancea et Sanctum**, cât și **Cercul Vrăjitoarelor** practică Magia Sângelui, chiar dacă specializările lor variază destul de mult în ceea me privește temele, metodele și rezultatele.
+**Magia Sângelui** este un termen umbrelă pentru o varietate de ritualuri, trucuri și incantații care se încadrează în categoria **Cvasidisciplinelor**. Acestea nu sunt la fel de copleșitor de puternice ca Disciplines, dar nici nu pot fi accesate de simplii muritori fără cunoștințele corespunzătoare. Atât **Lancea et Sanctum**, cât și **Cercul Vrăjitoarelor** practică Magia Sângelui, chiar dacă specializările lor variază destul de mult în ceea mă privește temele, metodele și rezultatele.
 
 > Ritualurile necesită **Sacrificiu** pentru a conjura o **Solicitare** și, sperabil, pentru a primi un **Răspuns** fără **Risc**. Solicitarea necesită o aruncare de zaruri care variază în funcție de tipul de Magie a Sângelui (Cruac, Teobani sau alte Magii ale Sângelui specifice Anumitor Linii de Sânge) și de experiența exorcistului/casterului (experiența casterului cu ritualul respectiv contează deoarece determină cât de repede și ușor îl poate conjura). **Riscul** este determinat de **Factorii** avansați ai ritualului (Potență, Durată, Rază, Scară & Dimensiune — ritualul implicit are putere moderată, durează doar o tură, necesită atingere, afectează o singură țintă și nu poate fi mai mare decât un om mediu).
 
 Oricând sunt distribuite, **ritualurile necesită timp** în funcție de experiența casterului cu ele:
 
 - **Improvizat:** 1 oră
-    
 - **Învățat:** 10 minute
-    
 - **Stăpânit:** 4 ture
-    
 
 Viteza ritualului poate fi îmbunătățită prin grăbirea acestuia, aplicând o penalizare de până la **-5** la zarurile de turnare.
 

@@ -9,7 +9,7 @@ const { convertMdHrefs } = require("./src/helpers/linkUtils");
 const nodePath = require("path");
 
 const FAVICON_SOURCE = "./src/site/favicon.svg";
-const FAVICON_NORMALIZED = "./.cache/favicon.normalized.svg";
+const FAVICON_NORMALIZED = "./src/site/favicon.svg";
 normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
@@ -918,6 +918,7 @@ module.exports = function(eleventyConfig) {
   userEleventySetup(eleventyConfig);
 
   return {
+    pathPrefix: "/vampire/",
     dir: {
       input: "src/site",
       output: "dist",

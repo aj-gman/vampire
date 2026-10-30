@@ -53,6 +53,20 @@
         "src/plugins/resizable-panes/tests/fixtures/page-panel.css",
         "src/plugins/resizable-panes/tests/runtime.test.cjs"
       ]
+    },
+    "tag-placement": {
+      "repo": "oleeskild/garden-plugin-tag-placement",
+      "installedVersion": "1.2.0",
+      "installedRef": "v1.2.0",
+      "installedAt": "2026-10-30T12:13:45.419Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/tag-placement/README.md",
+        "src/plugins/tag-placement/garden-plugin.json",
+        "src/plugins/tag-placement/screenshot.png",
+        "src/plugins/tag-placement/templates/bottom-tags.njk",
+        "src/plugins/tag-placement/templates/style.njk"
+      ]
     }
   }
 }

@@ -469,6 +469,17 @@ module.exports = function(eleventyConfig) {
     return date && date.toISOString();
   });
 
+  eleventyConfig.addFilter("siteUrl", function(url) {
+    const base =
+      (this && this.ctx && this.ctx.meta && this.ctx.meta.siteBaseUrl) ||
+      process.env.SITE_BASE_URL ||
+      "https://aj-gman.github.io/vampire/";
+    if (!url) return base;
+    const normalizedBase = base.endsWith("/") ? base : base + "/";
+    const normalizedUrl = String(url).replace(/^\/+/, "");
+    return normalizedBase + normalizedUrl;
+  });
+
   eleventyConfig.addFilter("link", function(str) {
     return (
       str &&

@@ -9,7 +9,7 @@ const { convertMdHrefs } = require("./src/helpers/linkUtils");
 const nodePath = require("path");
 
 const FAVICON_SOURCE = "./src/site/favicon.svg";
-const FAVICON_NORMALIZED = "./src/site/favicon.svg";
+const FAVICON_NORMALIZED = "./.cache/favicon.normalized.svg";
 normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/lucy/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Daeva]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Volgirre]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/lucy/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Daeva]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Volgirre]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
 ---
 
 ![NPC-Lucy.jpg\|315](/img/user/z-poze/NPC-Lucy.jpg)

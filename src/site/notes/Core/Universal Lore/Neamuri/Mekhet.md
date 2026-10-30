@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/neamuri/mekhet/","tags":["#clan"],"dg-note-properties":{"tags":["#clan"]}}
+{"dg-publish":true,"permalink":"/core/universal-lore/neamuri/mekhet/","dg-note-properties":{}}
 ---
 
 #clan 

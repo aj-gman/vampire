@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/aliniamentul-cartian/","tags":["#faction"],"dg-note-properties":{"tags":["#faction"]}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/aliniamentul-cartian/","dg-note-properties":{}}
 ---
 
 #faction in [[Core/Universal Lore/Juraminte/Miscarea Cartiana\|Miscarea Cartiana]] ([[Romania/Bucuresti/Bucuresti\|Bucuresti]])

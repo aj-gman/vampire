@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/juraminte/invictus/","tags":["#covenant","#bucuresti","#moldova","#rome"],"dg-note-properties":{"tags":["#covenant","#bucuresti","#moldova","#rome"],"wip":"tradus"}}
+{"dg-publish":true,"permalink":"/core/universal-lore/juraminte/invictus/","tags":["covenant","bucuresti","moldova","rome"],"dg-note-properties":{"tags":["covenant","bucuresti","moldova","rome"],"wip":"tradus"}}
 ---
 
 Convenant of successful entrepreneurs that are always on the bleeding edge of the rise. Schemers, spies, politicians, businessmen, everything that gives them more power, they've got a plan for it. Modern regalia, they're perhaps the most inclusive of the Covenants. Anyone who can take the power should do so - every night, from sunset to sunrise. It would be a shame to try to put a [[Core/Universal Lore/Neamuri/Gangrel\|Gangrel]] in a suit when he belongs on the street, cutting shady deals. Survival of the fittest constructs the most competent hierarchy.

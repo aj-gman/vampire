@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/crones/nina/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Elder]]","clan":"[[Core/Universal Lore/Neamuri/Mekhet]]","covenant":"[[Core/Universal Lore/Juraminte/Zgripturoaicele]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/crones/nina/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Elder]]","clan":"[[Core/Universal Lore/Neamuri/Mekhet]]","covenant":"[[Core/Universal Lore/Juraminte/Zgripturoaicele]]"}}
 ---
 
 What appears to be a woman in her thirties is actually a [[Core/Universal Lore/Neamuri/Mekhet\|Mekhet]] of quite an age, pre-[[Core/Universal Lore/Juraminte/Ordo Dracul\|Ordo Dracul]], who is said to have visions. 

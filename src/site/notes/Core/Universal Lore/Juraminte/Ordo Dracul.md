@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/juraminte/ordo-dracul/","tags":["#covenant","#bucuresti","#louisiana","#moldova","#rome"],"dg-note-properties":{"tags":["#covenant","#bucuresti","#louisiana","#moldova","#rome"]}}
+{"dg-publish":true,"permalink":"/core/universal-lore/juraminte/ordo-dracul/","tags":["covenant","bucuresti","louisiana","moldova","rome"],"dg-note-properties":{"tags":["covenant","bucuresti","louisiana","moldova","rome"]}}
 ---
 
 ==Ordinul, Dragonii, Ordinul Dragonului==

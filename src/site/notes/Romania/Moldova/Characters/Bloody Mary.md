@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/moldova/characters/bloody-mary/","tags":["#npc","#moldova","#vampire"],"dg-note-properties":{"tags":["#npc","#moldova","#vampire"]}}
+{"dg-publish":true,"permalink":"/romania/moldova/characters/bloody-mary/","dg-note-properties":{}}
 ---
 
 #npc #moldova #vampire 

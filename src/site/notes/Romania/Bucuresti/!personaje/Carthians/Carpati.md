@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/carpati/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Nosferatu]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Azerkatil]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/carpati/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Nosferatu]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Azerkatil]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
 ---
 
 *The man, the myth, the legend.*

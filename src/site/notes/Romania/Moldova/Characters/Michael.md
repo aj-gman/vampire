@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/moldova/characters/michael/","tags":["#npc","#moldova"],"dg-note-properties":{"tags":["#npc","#moldova"]}}
+{"dg-publish":true,"permalink":"/romania/moldova/characters/michael/","dg-note-properties":{}}
 ---
 
 #npc #moldova 

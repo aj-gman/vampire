@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/vtr/tainele-juramintelor/magick/","tags":["#quasi-discipline","#discipline"],"dg-note-properties":{"wip":"tradus","tags":["#quasi-discipline","#discipline"]}}
+{"dg-publish":true,"permalink":"/core/sisteme/vtr/tainele-juramintelor/magick/","dg-note-properties":{"wip":"tradus"}}
 ---
 
 This entire page is [[Core/Homebrew\|Homebrew]][^1]. I do not know how [[Core/Sisteme/VTR/Tainele Juramintelor/Magick\|Magick]] actually works in VTR.

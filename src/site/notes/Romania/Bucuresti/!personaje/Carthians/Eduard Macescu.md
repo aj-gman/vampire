@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/eduard-macescu/","tags":["#npc","#bucuresti","#covenant"],"dg-note-properties":{"tags":["#npc","#bucuresti","#covenant"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Neamuri/Daeva]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/eduard-macescu/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Neamuri/Daeva]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
 ---
 
 #npc #bucuresti 

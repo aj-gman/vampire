@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/lucia/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Neamuri/Daeva]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Volgirre]]","covenant":"[[Core/Universal Lore/Juraminte/Ordo Dracul]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/lucia/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Neamuri/Daeva]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Volgirre]]","covenant":"[[Core/Universal Lore/Juraminte/Ordo Dracul]]"}}
 ---
 
 #npc #bucuresti 

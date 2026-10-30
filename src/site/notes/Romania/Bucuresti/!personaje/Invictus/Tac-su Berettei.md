@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/tac-su-berettei/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Neamuri/Ventrue]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Lasombra]]","covenant":"[[Core/Universal Lore/Juraminte/Invictus]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/tac-su-berettei/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Neamuri/Ventrue]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Lasombra]]","covenant":"[[Core/Universal Lore/Juraminte/Invictus]]"}}
 ---
 
 Baron[^2] Technologist[^1]

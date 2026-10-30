@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/vtr/damage/","tags":["#Mecanică","#RPG","#Vampire"],"dg-note-properties":{"wip":"adaptat","tags":["#Mecanică","#RPG","#Vampire"]}}
+{"dg-publish":true,"permalink":"/core/sisteme/vtr/damage/","dg-note-properties":{"wip":"adaptat"}}
 ---
 
 

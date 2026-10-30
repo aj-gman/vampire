@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/juraminte/lancea-et-sanctum/","tags":["#covenant","#bucuresti","#moldova"],"dg-note-properties":{"tags":["#covenant","#bucuresti","#moldova"],"wip":"tradus"}}
+{"dg-publish":true,"permalink":"/core/universal-lore/juraminte/lancea-et-sanctum/","tags":["covenant","bucuresti","moldova"],"dg-note-properties":{"tags":["covenant","bucuresti","moldova"],"wip":"tradus"}}
 ---
 
 **RO: Lancea, Biserica**

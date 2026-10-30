@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/fratii-manole/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Universal Lore/Gargui]]"],"gen":"[[Elder]]","clan":"[[Core/Universal Lore/Neamuri/Mekhet]]","covenant":"[[Core/Universal Lore/Juraminte/Ordo Dracul]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/fratii-manole/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Gargui]]"],"gen":"[[Elder]]","clan":"[[Core/Universal Lore/Neamuri/Mekhet]]","covenant":"[[Core/Universal Lore/Juraminte/Ordo Dracul]]"}}
 ---
 
 #npc #bucuresti 

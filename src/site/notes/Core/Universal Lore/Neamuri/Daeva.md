@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/neamuri/daeva/","tags":["#clan"],"dg-note-properties":{"tags":["#clan"]}}
+{"dg-publish":true,"permalink":"/core/universal-lore/neamuri/daeva/","dg-note-properties":{}}
 ---
 
 #clan

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/moldova/characters/atos/","tags":["#npc","#moldova"],"dg-note-properties":{"tags":["#npc","#moldova"]}}
+{"dg-publish":true,"permalink":"/romania/moldova/characters/atos/","dg-note-properties":{}}
 ---
 
 #npc #moldova 

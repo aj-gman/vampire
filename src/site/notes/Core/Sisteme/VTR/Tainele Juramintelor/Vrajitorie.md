@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/vtr/tainele-juramintelor/vrajitorie/","tags":["#quasi-discipline"],"dg-note-properties":{"wip":"tradus, scris","tags":["#quasi-discipline"]}}
+{"dg-publish":true,"permalink":"/core/sisteme/vtr/tainele-juramintelor/vrajitorie/","dg-note-properties":{"wip":"tradus, scris"}}
 ---
 
 #quasi-discipline 

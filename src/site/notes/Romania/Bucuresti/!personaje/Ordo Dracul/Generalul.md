@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/generalul/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Elder]]","clan":"[[Core/Universal Lore/Neamuri/Ventrue]]","bloodline":"[[Tzimitzi]]","covenant":"[[Core/Universal Lore/Juraminte/Ordo Dracul]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/generalul/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Elder]]","clan":"[[Core/Universal Lore/Neamuri/Ventrue]]","bloodline":"[[Tzimitzi]]","covenant":"[[Core/Universal Lore/Juraminte/Ordo Dracul]]"}}
 ---
 
 *RO: Marele Arhitect-Voievod*

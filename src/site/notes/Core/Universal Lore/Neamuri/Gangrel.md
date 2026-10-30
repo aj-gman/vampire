@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/neamuri/gangrel/","tags":["#clan"],"dg-note-properties":{"tags":["#clan"]}}
+{"dg-publish":true,"permalink":"/core/universal-lore/neamuri/gangrel/","dg-note-properties":{}}
 ---
 
 #clan 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/universal-lore/juraminte/zgripturoaicele/","tags":["#covenant","#bucuresti","#louisiana","#moldova","#rome"],"dg-note-properties":{"tags":["#covenant","#bucuresti","#louisiana","#moldova","#rome"]}}
+{"dg-publish":true,"permalink":"/core/universal-lore/juraminte/zgripturoaicele/","tags":["covenant","bucuresti","louisiana","moldova","rome"],"dg-note-properties":{"tags":["covenant","bucuresti","louisiana","moldova","rome"]}}
 ---
 
 **RO: Ciorile, Gheonoaiele, Zripturoaicele**

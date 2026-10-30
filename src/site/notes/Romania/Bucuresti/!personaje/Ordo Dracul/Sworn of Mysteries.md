@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/sworn-of-mysteries/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"]}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/sworn-of-mysteries/","dg-note-properties":{}}
 ---
 
 *RO: Osânditul Tainelor*

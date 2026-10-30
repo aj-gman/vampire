@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/sworn-of-the-dying-light/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"]}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/sworn-of-the-dying-light/","dg-note-properties":{}}
 ---
 
 *RO: Osânditul Flacărei*

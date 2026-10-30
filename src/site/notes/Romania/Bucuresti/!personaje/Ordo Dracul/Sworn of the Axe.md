@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/sworn-of-the-axe/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"]}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/sworn-of-the-axe/","dg-note-properties":{}}
 ---
 
 *RO: Osânditul Tăișului*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/gigi-puttanesca/","tags":["#npc","#bucuresti"],"dg-note-properties":{"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Gangrel]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Puttanesca]]","covenant":"[[Core/Universal Lore/Juraminte/Invictus]]","tags":["#npc","#bucuresti"]}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/gigi-puttanesca/","dg-note-properties":{"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Gangrel]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Puttanesca]]","covenant":"[[Core/Universal Lore/Juraminte/Invictus]]"}}
 ---
 
 #npc #bucuresti 

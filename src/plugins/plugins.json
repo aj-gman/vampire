@@ -67,6 +67,14 @@
         "src/plugins/tag-placement/templates/bottom-tags.njk",
         "src/plugins/tag-placement/templates/style.njk"
       ]
+    },
+    "dg-timestamps": {
+      "settings": {
+        "showCreated": false,
+        "showUpdated": true,
+        "timestampFormat": "MMM dd, yyyy h:mm a",
+        "dateFormat": "MMM dd, yyyy"
+      }
     }
   }
 }

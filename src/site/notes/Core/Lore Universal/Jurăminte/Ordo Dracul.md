@@ -6,7 +6,7 @@
 Covenant of vampire scholars and thaumaturges using their quasi-Disciplines known as "Coils" in order to master the vampiric condition. Often isolated from the greater vampiric society, the Ordo Dracul claim to descend from the great Dracula, following in his footsteps to achieve the Great Work.
 
 #### Core
-- **Advantage:** [[Core/Sisteme/VTR/Tainele Juramintelor/Alchimie\|Alchimie]], twisted versions of [[Magick\|Magick]] that bleed life into the vampiric condition.
+- **Advantage:** [[Core/Sisteme/Tainele Jurămintelor/Alchimie\|Alchimie]], twisted versions of [[Magick\|Magick]] that bleed life into the vampiric condition.
 - **Vibe:** Methodical, Hierarchical, Isolated, Intelligent, Cold, Planned
 - **Stereotypes:** Drug Dealer, Method Actor, University Professor, Unassuming Student, Plastic Surgeon, Street Fighter
 - **Album Theme:** _[New History Warfare Vol. 2: Judges](https://youtube.com/playlist?list=OLAK5uy_kSJmwjVS22ip0TQsiLNQMkT949NYCo830&si=ZEdy6daEQy84a2Ut)_
@@ -19,7 +19,7 @@ Covenant of vampire scholars and thaumaturges using their quasi-Disciplines know
 - There are also Camps[^5], which give way to a sort of religion amongst the Order.
 
 
-# [[Romania/Bucuresti/Bucuresti\|Bucuresti]]
+# [[Romania/Bucuresti/București\|București]]
 
 The Bucharest Lodge regards itself as the capital, due to the historical ties that bind. It is said that the Dragon himself resides in this chapter, although any Kindred who dares explore that ends up more Damned than before.
 

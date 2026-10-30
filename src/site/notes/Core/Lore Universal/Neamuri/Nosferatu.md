@@ -6,7 +6,7 @@
 RO: **Strigoii, Dracii**
 
 ## Disciplines / Taine
-### [[Core/Sisteme/VTR/Taine/Oroare\|Oroare]], [[Core/Sisteme/VTR/Taine/Obfuscare\|Obfuscare]], [[Core/Sisteme/VTR/Taine/Potenta\|Potenta]]
+### [[Core/Sisteme/Taine/Oroare\|Oroare]], [[Core/Sisteme/Taine/Obfuscare\|Obfuscare]], [[Core/Sisteme/Taine/Potenta\|Potenta]]
 
 ## _The Ones You Fear..._
 *The stray dog that keeps following you asking for food that you're scared is just going to take a pound of flesh. The reason you keep turning your head when you're going home at night. Why horror stories online seem so scary - anonymity, death, despair. Even when you try to make friends with them, something's off.*

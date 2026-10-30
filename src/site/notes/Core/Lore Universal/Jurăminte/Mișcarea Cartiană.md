@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/miscarea-cartiana/","tags":["#jurământ"],"dg-note-properties":{"tags":["#jurământ"],"wip":"tradus"}}
+{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/miscarea-cartiana/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"wip":"tradus"}}
 ---
 
 
@@ -21,10 +21,10 @@
 - The Carthians might very well be the only [Covenant](https://gmantabletops.miraheze.org/wiki/Category:Covenants "Category:Covenants") that acknowledges halflings like Dhampirs, Caitiffs and Ghouls as full-fledged members. Even if their ascendance to the highest positions is unlikely thanks to layers upon layers of glass ceilings, their social mobility is far wider within the movement than in the vampiric society at large.
 - Their name originates from the [myth of Carthage in Vampire: The Masquerade](https://whitewolf.fandom.com/wiki/Carthage_\(WOD\)), supposedly a city where vampires and humans lived in harmony, with knowledge of one another.
 
-# [[Romania/Bucuresti/Bucuresti\|Bucuresti]]
+# [[Romania/Bucuresti/București\|București]]
 - Has a set of Carthian Laws that have been in place since the incipient movements of the 1990s.
 - the fun Carthians, the ones you'd wanna hang out with, are a bunch of hooligans comprised of millenials, gen z-ers and other people who want to feel young (read: feel/look but not be)
 	- headed by a power couple from across the aisle, they are friendly yet sharp when it comes to those who want to cross them
 	- they head up a cafe/bar in the heart of the city where they run most of their things out of (not exactly taking care of the day-to-day)
 	- the actual schedule is managed by a couple of people, namely an 
-- The unfun Carthians, which have gained a seat at the table through [[Romania/Bucuresti/!personaje/Carthians/Eduard Macescu\|Eduard Macescu]]
+- The unfun Carthians, which have gained a seat at the table through [[Romania/Bucuresti/!personaje/Cartieni/Eduard Macescu\|Eduard Macescu]]

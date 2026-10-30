@@ -6,7 +6,7 @@
 
 A Toreador antitribu by VTM standards, [[Romania/Moldova/Characters/Bloody Mary\|Bloody Mary]] is a young vampire who tried to rise above the ranks and overcome [[Romania/Moldova/Characters/Lidia\|Lidia]]'s brewing revolt against [[Romania/Moldova/Characters/Isac Maxim\|the Cardinal]]. Unfortunately, being part of [[Romania/Moldova/Characters/Olimpia Moldovan\|Olimpia Moldovan]]'s crew meant she was the first to find out about this attempt to ruin [[Romania/Moldova/Characters/Isac Maxim\|the Cardinal]], so she was almost - almost killed. A Ravnos showed her a trick, how to hide in the mirrors and reflections of windows. After having learnt that, she hid in [[Romania/Moldova/Locations/Tudor Plaza\|Tudor Plaza]] until the events of [[Romania/Moldova/Stories/Killing Time\|Killing Time]], where she got too greedy for her own good... again.
 
-[[Core/Sisteme/HTV/Nest\|Nest]]: [[Romania/Moldova/Locations/The Hall of Mirrors\|The Hall of Mirrors]] in [[Romania/Moldova/Locations/Tudor Plaza\|Tudor Plaza]]
+[[Nest\|Nest]]: [[Romania/Moldova/Locations/The Hall of Mirrors\|The Hall of Mirrors]] in [[Romania/Moldova/Locations/Tudor Plaza\|Tudor Plaza]]
 ![NPC-bloodymary.png](/img/user/z-poze/NPC-bloodymary.png)
 
 ### Characteristics

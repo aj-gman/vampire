@@ -3,4 +3,4 @@
 ---
 
 #dead 
-Sire of [[Romania/Bucuresti/!personaje/Unalligned/Septar\|Septar]], lover of [[Romania/Bucuresti/!personaje/Invictus/Zimbra\|Zimbra]]
+Sire of [[Romania/Bucuresti/!personaje/Dezlipiți/Septar\|Septar]], lover of [[Romania/Bucuresti/!personaje/Invictus/Zimbra\|Zimbra]]

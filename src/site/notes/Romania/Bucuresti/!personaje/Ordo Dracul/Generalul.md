@@ -5,7 +5,7 @@
 *RO: Marele Arhitect-Voievod*
 #npc #bucuresti 
 
-Leader of the [[Romania/Bucuresti/Bucuresti\|Romanian]] [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]]. Generalul
+Leader of the [[Romania/Bucuresti/București\|Romanian]] [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]]. Generalul
 
 ![NPC-generalul.png\|300](/img/user/z-poze/NPC-generalul.png)
 

@@ -25,6 +25,6 @@ Even from when I was still a mortal child, I used to speak to my teddy bear. His
 
 The Coven? Uneasy allies, at best. They know their shit around voodoo magic, and those wacko psychedelic trips when they talk to their Dark Mother are fun as hell to watch. I mean, who wouldn't love to get killed over and over again by naked women? Fucked to submission and back, and they all look the same? That's a fun orgy I've ever heard of one. But they don't know when to stop. They have no control, they don't want anything than to waste the night partying in their occultist rituals. They're the first to say no to outside help. The other day, one of us, a licensed psychotherapist, went out into the woods. He came back this morning, almost burnt to a crisp, spouting nonsense. That costs resources, y'know? To bring him back from the brink of insanity. Resources we don't have, because we're waging war on all fronts with those nosey Estate bastards that think they're above everyone.
 
-### [[Romania/Bucuresti/Bucuresti\|Bucuresti]]
+### [[Romania/Bucuresti/București\|București]]
 ### [[Louisiana\|Louisiana]]
 ### [[Rome\|Rome]]

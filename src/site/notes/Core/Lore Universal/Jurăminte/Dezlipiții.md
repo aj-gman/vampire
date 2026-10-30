@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/dezlipitii/","tags":["#jurământ"],"dg-note-properties":{"tags":["#jurământ"]}}
+{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/dezlipitii/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"]}}
 ---
 
 sihastri? dezlipiti

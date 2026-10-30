@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/romania/bucuresti/bucuresti-map/","dg-note-properties":{}}
 ---
 
-Map of [[Romania/Bucuresti/Bucuresti\|Bucuresti]] containing the [[Romania/Bucuresti/B-Vampyramid.canvas\|B-Vampyramid.canvas]], as well as all of the covenants' areas of operation.
+Map of [[Romania/Bucuresti/București\|București]] containing the [[Romania/Bucuresti/B-Vampyramid.canvas\|B-Vampyramid.canvas]], as well as all of the covenants' areas of operation.
 - The covenants are secret societies serious about keeping themselves hidden not only from mortal eyes but from each other, to whatever extent they’re able. The Prince of one city doesn’t want to import the problems of some other city.
 - World of Darkness as a greater entity in which even the monsters present didn’t understand all of its secrets. The vampires of a given domain, at the top of the food chain as they are, are as often prisoners of their own domains as not. These population centers themselves sometimes spawn inchoate mysteries, but at least the Kindred understand their own city streets. Once they move out from their home territories into the mysterious no man’s land that lies beyond, they don’t have the comparative comforts of home to succor them.
 - Although ruin isn’t necessarily an architectural design, it can feature prominently on local buildings as well, suggesting moral decay, physical corruption or the passing of the structure into anachronism.

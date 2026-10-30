@@ -6,7 +6,7 @@
 RO: **Regii, Domnii, Voievozii**
 
 ## Disciplines / Taine
-### [[Core/Sisteme/VTR/Taine/Animalism\|Animalism]], [[Core/Sisteme/VTR/Taine/Dominare\|Dominare]], [[Core/Sisteme/VTR/Taine/Fortitudine\|Fortitudine]]
+### [[Core/Sisteme/Taine/Animalism\|Animalism]], [[Core/Sisteme/Taine/Dominare\|Dominare]], [[Core/Sisteme/Taine/Fortitudine\|Fortitudine]]
 
 *It's not only that they must lead, it's that they will win at any cost. There is nothing more worthwhile, more precious in the unlife than towering over others, now your slaves. History is written by the victors, and they need to be remembered.*
 

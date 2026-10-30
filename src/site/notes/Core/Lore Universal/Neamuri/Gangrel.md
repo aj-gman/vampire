@@ -7,7 +7,7 @@
 *RO: Fiarele, Pricolicii*
 
 ## Disciplines / Taine
-### [[Core/Sisteme/VTR/Taine/Animalism\|Animalism]], [[Core/Sisteme/VTR/Taine/Fortitudine\|Fortitudine]], [[Core/Sisteme/VTR/Taine/Protean\|Protean]]
+### [[Core/Sisteme/Taine/Animalism\|Animalism]], [[Core/Sisteme/Taine/Fortitudine\|Fortitudine]], [[Core/Sisteme/Taine/Protean\|Protean]]
 
 ## _The Ones You Can't Kill..._
 _The dogs barking in somebody's backyard that you cross the street to not have to deal with. The ravens crowing at your windows for breadcrumbs and death. The drunk truck driver that you refused and groped you on the way out. The beast walking on all fours. When they're around, you're no longer top of the food chain. Inevitable death comes for us all - but this one's got a taste for your blood and bones._

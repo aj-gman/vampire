@@ -6,7 +6,7 @@
 RO: **Umbrele, Nimicul**
 
 ## Disciplines / Taine 
-### [[Core/Sisteme/VTR/Taine/Auspicii\|Auspicii]], [[Core/Sisteme/VTR/Taine/Celeritate\|Celeritate]], [[Core/Sisteme/VTR/Taine/Obfuscare\|Obfuscare]]
+### [[Core/Sisteme/Taine/Auspicii\|Auspicii]], [[Core/Sisteme/Taine/Celeritate\|Celeritate]], [[Core/Sisteme/Taine/Obfuscare\|Obfuscare]]
 
 ## _The Ones You Can't See..._
 *The smile of the all-knowing. The paranoia of being seen naked in the shower by a stranger carefully watching. A detective in a film noir going past his dues. "The world we don't see" - and the only reason the Masquerade is still alive. How can you believe your next of kin when they claim they saw a monster just moments ago, smiling in the corner?*

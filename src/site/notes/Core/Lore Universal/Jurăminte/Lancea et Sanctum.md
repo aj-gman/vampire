@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/lancea-et-sanctum/","tags":["#jurământ"],"dg-note-properties":{"tags":["#jurământ"],"wip":"tradus"}}
+{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/lancea-et-sanctum/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"wip":"tradus"}}
 ---
 
 **RO: Lancea, Biserica**

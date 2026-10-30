@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/vtr/cacofonia/","dg-note-properties":{"wip":"tradus"}}
+{"dg-publish":true,"dg-path":"Reguli/Cacofonia.md","permalink":"/reguli/cacofonia/","dg-note-properties":{"wip":"tradus"}}
 ---
 
 Mortals walk the streets, and there is a humming in the back of their lizard brains. A music in the graffiti, in the underground performance art, in the rhymes penned on bathroom stalls, flyers blowing as discordant notes on the wind. 
@@ -8,7 +8,7 @@ Mortals walk the streets, and there is a humming in the back of their lizard bra
 
 The mortal wants to hum along to the Cacophony. The Cacophony is the vector of Kindred culture. This is how they communicate within and beyond their territories and cities. The Cacophony is the underground journalism, literature, and art of the Damned. It has always lurked as a hollow echo to mortal culture, but saw its renaissance in the 1960s, growing alongside the counterculture of breathers. Vampire samizdat!
 
-Many in the All Night Society assume this was the brainchild of the [[Core/Universal Lore/Juraminte/Miscarea Cartiana\|Miscarea Cartiana]]. But no, the movement was spearheaded by youthful elements of the [[Core/Universal Lore/Juraminte/Invictus\|Invictus]], who needed ways to communicate basic messages regarding Masquerade safety — a song of silence. The signal spread, solidifying into branching explosions of cultural artifacts reaching across covenants: books, pamphlets, mix tapes, private gallery exhibitions, and secret shows. 
+Many in the All Night Society assume this was the brainchild of the [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|Mișcarea Cartiană]]. But no, the movement was spearheaded by youthful elements of the [[Core/Lore Universal/Jurăminte/Invictus\|Invictus]], who needed ways to communicate basic messages regarding Masquerade safety — a song of silence. The signal spread, solidifying into branching explosions of cultural artifacts reaching across covenants: books, pamphlets, mix tapes, private gallery exhibitions, and secret shows. 
 
 **It is an information network that is more cultural than administrative. The signal never stopped.** 
 

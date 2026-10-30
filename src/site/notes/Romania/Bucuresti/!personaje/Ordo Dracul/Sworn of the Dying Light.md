@@ -5,6 +5,6 @@
 *RO: Osânditul Flacărei*
 #npc #bucuresti 
 
-A peculiarly calm [[Core/Universal Lore/Neamuri/Gangrel\|Gangrel]] hailing from Moldova.
+A peculiarly calm [[Core/Lore Universal/Neamuri/Gangrel\|Gangrel]] hailing from Moldova.
 
-- Tasks within the [[Core/Universal Lore/Juraminte/Ordo Dracul\|Ordo Dracul]]: Principles, what needs to be studied, policy (Traditions yes/no)
+- Tasks within the [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]]: Principles, what needs to be studied, policy (Traditions yes/no)

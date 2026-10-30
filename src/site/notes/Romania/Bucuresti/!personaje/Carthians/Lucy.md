@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/lucy/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Daeva]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Volgirre]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/lucy/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Lore Universal/Specii/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Lore Universal/Neamuri/Daeva]]","bloodline":"[[Core/Lore Universal/Neamuri/Bloodlines/Volgirre]]","covenant":"[[Core/Lore Universal/Jurăminte/Mișcarea Cartiană]]"}}
 ---
 
 ![NPC-Lucy.jpg\|315](/img/user/z-poze/NPC-Lucy.jpg)
@@ -11,11 +11,11 @@
 **Reputation:** Recognized
 **Influence:** One Neighborhood
 **Desire:** Great Fame
-**Recent Event:** Created Herself a [[Core/Universal Lore/Moroi\|Moroi]]
+**Recent Event:** Created Herself a [[Core/Lore Universal/Specii/Moroi\|Moroi]]
 **Mythic Flaws:** Holy Water
 **Appearance Flaws:** Translucent Skin
 
-Another aspiring artist looking for fame, walking the streets of [[Romania/Bucuresti/Bucuresti\|Bucharest]] - Lucy was [[Core/Universal Lore/Imbratisarea\|embraced]] while she was doing what she loved ~~second~~ most. [[Romania/Bucuresti/!personaje/Crones/Benz\|Benz]] did not hesitate to give in to 
+Another aspiring artist looking for fame, walking the streets of [[Romania/Bucuresti/Bucuresti\|Bucharest]] - Lucy was [[Core/Lore Universal/Îmbrățișarea\|embraced]] while she was doing what she loved ~~second~~ most. [[Romania/Bucuresti/!personaje/Crones/Benz\|Benz]] did not hesitate to give in to 
 
-[[Core/Universal Lore/Neamuri/Daeva\|Daeva]], [[Core/Universal Lore/Juraminte/Miscarea Cartiana\|Miscarea Cartiana]]
+[[Core/Lore Universal/Neamuri/Daeva\|Daeva]], [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|Mișcarea Cartiană]]
 - Lover: [[Romania/Bucuresti/!personaje/Carthians/Logaritm\|Logaritm]]

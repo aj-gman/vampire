@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/raducanu/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"clan":"[[Core/Universal Lore/Neamuri/Nosferatu]]","gen":"[[Ancillae]]","covenant":"[[Core/Universal Lore/Juraminte/Ordo Dracul]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/ordo-dracul/raducanu/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Lore Universal/Specii/Vampir]]"],"clan":"[[Core/Lore Universal/Neamuri/Nosferatu]]","gen":"[[Ancillae]]","covenant":"[[Core/Lore Universal/Jurăminte/Ordo Dracul]]"}}
 ---
 
 - [[Core/Sisteme/VTR/Tainele Juramintelor/Alchimie\|Alchimie]], especially Wrath (controlling the Beast) & Envy (Blood Potency). 

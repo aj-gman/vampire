@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/beretta/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Ventrue]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Lasombra]]","covenant":"[[Core/Universal Lore/Juraminte/Invictus]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/beretta/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Lore Universal/Specii/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Lore Universal/Neamuri/Ventrue]]","bloodline":"[[Core/Lore Universal/Neamuri/Bloodlines/Lasombra]]","covenant":"[[Core/Lore Universal/Jurăminte/Invictus]]"}}
 ---
 
 Write more about her!

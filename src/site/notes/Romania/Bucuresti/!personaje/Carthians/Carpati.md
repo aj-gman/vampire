@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/carpati/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Nosferatu]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Azerkatil]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/carpati/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Lore Universal/Specii/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Lore Universal/Neamuri/Nosferatu]]","bloodline":"[[Core/Lore Universal/Neamuri/Bloodlines/Azerkatil]]","covenant":"[[Core/Lore Universal/Jurăminte/Mișcarea Cartiană]]"}}
 ---
 
 *The man, the myth, the legend.*
@@ -21,11 +21,11 @@ Childer of [[Romania/Bucuresti/!personaje/Carthians/Cacanache\|Cacanache]], brot
 
 Matei became the perfect target one winter night in 2012, near the Carpati train station. Cold, drugged, and regretful, was approached by [[Romania/Bucuresti/!personaje/Carthians/Cacanache\|Cacanache]]. A deal was made.
 
-After [[Core/Universal Lore/Imbratisarea\|Imbratisarea]], Carpati was trained to become the eyes and years of [[Romania/Bucuresti/Bucuresti\|the city]]. He got sent to [[Rome\|Rome]], just to study [[The Carthian Law\|The Carthian Law]]. Make that change, create connections, bring the revolution to life. Join [[Core/Universal Lore/Juraminte/Miscarea Cartiana\|the movement]], and then bring it home. Another job well done. The pride and joy of [[Core/Universal Lore/Neamuri/Bloodlines/Azerkatil\|the Azerkatils]].
+After [[Core/Lore Universal/Îmbrățișarea\|Îmbrățișarea]], Carpati was trained to become the eyes and years of [[Romania/Bucuresti/Bucuresti\|the city]]. He got sent to [[Rome\|Rome]], just to study [[The Carthian Law\|The Carthian Law]]. Make that change, create connections, bring the revolution to life. Join [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|the movement]], and then bring it home. Another job well done. The pride and joy of [[Core/Lore Universal/Neamuri/Bloodlines/Azerkatil\|the Azerkatils]].
 
 Every now and then, he used to visit his sister, now about of primary school age. Feed her white lies, for the sake of protecting her. He used to own a rooftop bar with his [[Romania/Bucuresti/Bucuresti\|Bucuresti]] coterie. The death of [[Romania/Bucuresti/!personaje/Carthians/Cacanache\|his sire]] wrapped Carpati in great confusion and made him hallucinate.
 
-Last spotted: [[Romania/Bucuresti/Bucuresti Map\|Parcul Tineretului (or maybe it was Parcul Carol)]]. Disappeared, (un)officially dead in [[Core/Universal Lore/Juraminte/Ordo Dracul\|Ordo Dracul]] records.
+Last spotted: [[Romania/Bucuresti/Bucuresti Map\|Parcul Tineretului (or maybe it was Parcul Carol)]]. Disappeared, (un)officially dead in [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]] records.
 
 Throughout time, he has reached contact with:
 - [[Romania/Bucuresti/!personaje/Invictus/Iulian\|Iulian]]

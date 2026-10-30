@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/logaritm/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Daeva]]","bloodline":"[[Core/Universal Lore/Neamuri/Bloodlines/Volgirre]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/logaritm/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Lore Universal/Specii/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Lore Universal/Neamuri/Daeva]]","bloodline":"[[Core/Lore Universal/Neamuri/Bloodlines/Volgirre]]","covenant":"[[Core/Lore Universal/Jurăminte/Mișcarea Cartiană]]"}}
 ---
 
 ![npc-logaritm.jpg\|300](/img/user/z-poze/npc-logaritm.jpg)

@@ -5,9 +5,9 @@
 *RO: Osânditul Tainelor*
 #npc #bucuresti 
 
-A paranoid [[Core/Universal Lore/Neamuri/Mekhet\|Mekhet]] responsible for many bad events over the past 2 centuries. Intimate with the Grand Architect.
+A paranoid [[Core/Lore Universal/Neamuri/Mekhet\|Mekhet]] responsible for many bad events over the past 2 centuries. Intimate with the Grand Architect.
 
-- Tasks within the [[Core/Universal Lore/Juraminte/Ordo Dracul\|Ordo Dracul]]: non-Ordo vampires, communication, surveillance
+- Tasks within the [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]]: non-Ordo vampires, communication, surveillance
 
 ### Core
 - Chronicle Name: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/vtr/climbing-the-ladder/","dg-note-properties":{"wip":"tradus"}}
+{"dg-publish":true,"dg-path":"Reguli/Climbing the Ladder.md","permalink":"/reguli/climbing-the-ladder/","dg-note-properties":{"wip":"tradus"}}
 ---
 
 

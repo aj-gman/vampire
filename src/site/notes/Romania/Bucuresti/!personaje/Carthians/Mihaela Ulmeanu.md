@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/mihaela-ulmeanu/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Neamuri/Mekhet]]","covenant":"[[Core/Universal Lore/Juraminte/Miscarea Cartiana]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/carthians/mihaela-ulmeanu/","tags":["#npc","#bucuresti"],"dg-note-properties":{"tags":["#npc","#bucuresti"],"type":["[[Core/Lore Universal/Specii/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Lore Universal/Neamuri/Mekhet]]","covenant":"[[Core/Lore Universal/Jurăminte/Mișcarea Cartiană]]"}}
 ---
 
 #npc #bucuresti 
-[[Core/Universal Lore/Neamuri/Mekhet\|Mekhet]], [[Core/Universal Lore/Juraminte/Miscarea Cartiana\|Miscarea Cartiana]]
+[[Core/Lore Universal/Neamuri/Mekhet\|Mekhet]], [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|Mișcarea Cartiană]]
 
 ### Characteristics
 **Virtue:** Self-Control
 **Vice:** Avarice
 **Archetype:** Subtle Touch (Mystique, Passion) | Tactful, Self-Sufficient, Mindful
 **Dirge:** Visionary
-**Reputation:** Despised ([[Core/Universal Lore/Juraminte/Ordo Dracul\|Ordo Dracul]], despised de [[Core/Universal Lore/Juraminte/Miscarea Cartiana\|Cartienii extremisti si cei conservatori]])
+**Reputation:** Despised ([[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]], despised de [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|Cartienii extremisti si cei conservatori]])
 **Influence:** A few coteries
 **Desire:** To Establish Order
 **Recent Event:** Accepted A Shady Job

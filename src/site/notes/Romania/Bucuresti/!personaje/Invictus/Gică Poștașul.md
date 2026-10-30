@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/gica-postasul/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Universal Lore/Neamuri/Mekhet]]","covenant":"[[Core/Universal Lore/Juraminte/Invictus]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/gica-postasul/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Lore Universal/Specii/Vampir]]"],"gen":"[[Ancillae]]","clan":"[[Core/Lore Universal/Neamuri/Mekhet]]","covenant":"[[Core/Lore Universal/Jurăminte/Invictus]]"}}
 ---
 
 

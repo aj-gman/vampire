@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/vtr/istoric/","dg-note-properties":{"wip":"scris"}}
+{"dg-publish":true,"dg-path":"Reguli/Istoric.md","permalink":"/reguli/istoric/","dg-note-properties":{"wip":"scris"}}
 ---
 
 >[!warning]- Sectiunea contine reguli de casa!

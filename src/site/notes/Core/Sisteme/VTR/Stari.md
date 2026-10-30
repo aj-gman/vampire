@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/vtr/stari/","dg-note-properties":{"wip":"scris"}}
+{"dg-publish":true,"dg-path":"Reguli/Stari.md","permalink":"/reguli/stari/","dg-note-properties":{"wip":"scris"}}
 ---
 
-[[Substante\|Substantele]] iti dau [[Core/Sisteme/VTR/Stari\|Stari]].
+[[Core/Sisteme/VTR/Substante\|Substantele]] iti dau [[Core/Sisteme/VTR/Stari\|Stari]].
 
 [[Core/Sisteme/VTR/Stari\|Starile]] pot fi atat positive, cat si negative.
 

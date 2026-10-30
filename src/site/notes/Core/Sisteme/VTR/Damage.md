@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/vtr/damage/","dg-note-properties":{"wip":"adaptat"}}
+{"dg-publish":true,"dg-path":"Reguli/Damage.md","permalink":"/reguli/damage/","dg-note-properties":{"wip":"adaptat"}}
 ---
 
 

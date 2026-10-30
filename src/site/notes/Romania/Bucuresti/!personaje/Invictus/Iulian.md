@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/iulian/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Universal Lore/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Universal Lore/Neamuri/Gangrel]]","covenant":"[[Core/Universal Lore/Juraminte/Invictus]]"}}
+{"dg-publish":true,"permalink":"/romania/bucuresti/personaje/invictus/iulian/","tags":["npc","bucuresti"],"dg-note-properties":{"tags":["npc","bucuresti"],"type":["[[Core/Lore Universal/Specii/Vampir]]"],"gen":"[[Neonate]]","clan":"[[Core/Lore Universal/Neamuri/Gangrel]]","covenant":"[[Core/Lore Universal/Jurăminte/Invictus]]"}}
 ---
 
-[[Core/Universal Lore/Neamuri/Gangrel\|Gangrel]], [[Core/Universal Lore/Juraminte/Invictus\|Invictus]]
+[[Core/Lore Universal/Neamuri/Gangrel\|Gangrel]], [[Core/Lore Universal/Jurăminte/Invictus\|Invictus]]
 Lord[^1]
 
 Friends with [[Romania/Bucuresti/!personaje/Invictus/Beretta\|Beretta]]. Embraced in the 90s by [[Romania/Bucuresti/!personaje/Invictus/Ciclop\|Ciclop]]. 

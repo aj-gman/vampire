@@ -11,3 +11,325 @@ body {
     //   color: black;
     //  }
 }
+
+/* ==========================================================================
+   Sheet documents (kind: letter / memo / report / note / article / board)
+   Paper documents rendered on the dark canvas. Scoped to .sheet / .board /
+   .sheet-wrap so ordinary notes are unaffected. Selected per note through
+   the `kind` frontmatter field (see src/site/notes/notes.11tydata.js).
+   ========================================================================== */
+
+/* Fonts: EB Garamond + Marcellus SC ship in src/site/fonts; Caveat and
+   Special Elite (both SIL OFL) were added for handwriting and typewriter.
+   latin + latin-ext subsets keep Romanian diacritics. */
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal; font-weight: 100 1000; font-display: swap;
+  src: url('/vampire/fonts/EBGaramond-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: italic; font-weight: 100 1000; font-display: swap;
+  src: url('/vampire/fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Marcellus SC';
+  font-style: normal; font-weight: 400; font-display: swap;
+  src: url('/vampire/fonts/MarcellusSC-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal; font-weight: 400 600; font-display: swap;
+  src: url('/vampire/fonts/Caveat-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal; font-weight: 400 600; font-display: swap;
+  src: url('/vampire/fonts/Caveat-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Special Elite';
+  font-style: normal; font-weight: 400; font-display: swap;
+  src: url('/vampire/fonts/SpecialElite-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Special Elite';
+  font-style: normal; font-weight: 400; font-display: swap;
+  src: url('/vampire/fonts/SpecialElite-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Tokens. Paper tones double as the `paper:` frontmatter choices:
+   cream-worn, aged-white, ledger, manila. */
+.sheet, .board {
+  --paper-cream: #f2e7d0;
+  --paper-white: #f5f2e9;
+  --paper-ledger: #e9e7e1;
+  --paper-manila: #ecd9b0;
+  --ink: #2b2620;
+  --ink-soft: #4d453a;
+  --hand-ink: #323c5c;
+  --pencil: #b03a3a;
+  --sheet-accent: #863737;
+  --sheet-accent-lite: #c94d4d;
+}
+
+.sheet-wrap {
+  max-width: 640px;
+  margin: 28px auto 40px;
+}
+.sheet-wrap.narrow { max-width: 460px; }
+
+/* ---------- shared sheet ---------- */
+.sheet {
+  position: relative;
+  color: var(--ink);
+  box-shadow: 0 1px 2px rgba(0,0,0,.5), 0 10px 24px rgba(0,0,0,.55), 0 24px 48px rgba(0,0,0,.35);
+  padding: 34px 40px 46px;
+  /* Per-page assembly variation: `tilt:` frontmatter sets --sheet-tilt. */
+  transform: rotate(var(--sheet-tilt, 0deg));
+}
+.sheet::after {  /* second sheet peeking underneath */
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background: #e4dcc8; transform: rotate(1.6deg);
+  box-shadow: 0 6px 18px rgba(0,0,0,.5);
+}
+.sheet .running-footer {
+  position: absolute; left: 40px; right: 40px; bottom: 14px;
+  display: flex; justify-content: space-between;
+  font-family: 'EB Garamond', Georgia, serif; font-size: 10.5px; letter-spacing: .1em;
+  text-transform: uppercase; color: #8a7f6d;
+  border-top: 1px solid rgba(0,0,0,.12); padding-top: 6px;
+}
+.sheet .running-footer span:last-child { white-space: nowrap; padding-left: 12px; }
+.sheet .tw { font-family: 'Special Elite', 'Courier New', monospace; }
+
+/* The note's markdown content lands in .sheet-content; keep theme
+   typography out of the paper. */
+.sheet .sheet-content p,
+.sheet .sheet-content li {
+  font-family: 'Special Elite', 'Courier New', monospace;
+  font-size: 13.5px; line-height: 1.7; color: var(--ink);
+  margin: 0 0 14px;
+  background: none;
+  /* The theme justifies body text; on paper sheets that stretches lines,
+     badly around unbreakable redaction bars on narrow screens. */
+  text-align: left;
+}
+.sheet .sheet-content a { color: #6e1f1f; }
+.sheet .sheet-content h1, .sheet .sheet-content h2, .sheet .sheet-content h3,
+.sheet .sheet-content h4, .sheet .sheet-content h5, .sheet .sheet-content h6 {
+  font-family: 'Marcellus SC', serif; color: #3d3a35;
+  border-bottom: 1.5px solid rgba(0,0,0,.55);
+  margin: 22px 0 10px; padding-bottom: 3px;
+  font-size: 15px; letter-spacing: .05em; font-weight: 400;
+  background: none;
+}
+
+/* paper tones */
+.sheet.paper-cream-worn { background-color: var(--paper-cream); }
+.sheet.paper-aged-white { background-color: var(--paper-white); }
+.sheet.paper-ledger     { background-color: var(--paper-ledger); }
+.sheet.paper-manila     { background-color: var(--paper-manila); }
+
+/* ---------- letter ---------- */
+.sheet-letter { background: var(--paper-cream); --sheet-tilt-default: -0.8deg; transform: rotate(var(--sheet-tilt, -0.8deg)); }
+.sheet-letter .letterhead {
+  text-align: center; font-family: 'Marcellus SC', serif;
+  font-size: 17px; letter-spacing: .3em; color: #5a4632;
+  border-bottom: 1px solid rgba(0,0,0,.25); padding-bottom: 10px; margin-bottom: 22px;
+}
+.sheet-letter .letter-date { text-align: right; font-size: 13.5px; color: var(--ink-soft); margin-bottom: 18px; }
+.sheet-letter .letter-addr { font-size: 13.5px; line-height: 1.5; margin-bottom: 20px; color: var(--ink); }
+.sheet-letter .signature { font-family: 'Caveat', cursive; font-weight: 600; font-size: 30px; color: var(--hand-ink); margin: 18px 0 0; transform: rotate(-2deg); display: inline-block; }
+.sheet-letter .signature-role { font-family: 'Special Elite', monospace; font-size: 11.5px; color: var(--ink-soft); margin-top: 2px; }
+
+/* ---------- memo ---------- */
+.sheet-memo { background: var(--paper-white); transform: rotate(var(--sheet-tilt, 0.6deg)); }
+.sheet-memo .memo-title {
+  font-family: 'Marcellus SC', serif; font-size: 19px; letter-spacing: .22em;
+  color: #3d3a35; text-align: center; margin-bottom: 20px;
+}
+.sheet-memo .memo-fields { font-family: 'Special Elite', monospace; font-size: 13px; margin-bottom: 20px; }
+.sheet-memo .memo-fields .f { display: flex; gap: 10px; margin-bottom: 7px; }
+.sheet-memo .memo-fields .k { width: 74px; color: var(--ink-soft); letter-spacing: .06em; }
+.sheet-memo .memo-fields .v { flex: 1; border-bottom: 1px dotted rgba(0,0,0,.35); padding-bottom: 2px; }
+.sheet-memo .sheet-content p:last-child { margin-bottom: 64px; }
+.sheet .stamp {
+  position: absolute; right: 34px; bottom: 52px;
+  font-family: 'Marcellus SC', serif; font-size: 15px; letter-spacing: .18em;
+  color: var(--sheet-accent); border: 2.5px solid var(--sheet-accent); border-radius: 4px;
+  padding: 6px 14px; transform: rotate(-9deg); opacity: .82;
+  box-shadow: inset 0 0 0 1.5px rgba(134,55,55,.4);
+}
+
+/* ---------- handwritten note ---------- */
+.sheet-note {
+  background:
+    repeating-linear-gradient(to bottom, transparent 0 27px, rgba(70,90,140,.42) 27px 28px),
+    linear-gradient(to right, transparent 0 44px, rgba(180,60,60,.4) 44px 45.5px, transparent 45.5px),
+    var(--paper-ledger);
+  transform: rotate(var(--sheet-tilt, -1.6deg));
+  padding-top: 44px;
+}
+.sheet-note::after { content: none; }
+.sheet-note .tape {
+  position: absolute; top: -12px; left: 50%; width: 110px; height: 26px;
+  transform: translateX(-50%) rotate(-2deg);
+  background: rgba(255,252,240,.45); border: 1px solid rgba(255,255,255,.5);
+  box-shadow: 0 2px 5px rgba(0,0,0,.25);
+}
+.sheet-note .sheet-content p {
+  font-family: 'Caveat', cursive; font-weight: 400; font-size: 22px; line-height: 28px;
+  color: var(--hand-ink); margin: 0;
+}
+
+/* ---------- article ---------- */
+.sheet-article { background: var(--paper-white); transform: rotate(var(--sheet-tilt, 0.3deg)); padding-top: 26px; }
+.sheet-article .art-running {
+  display: flex; justify-content: space-between; flex-wrap: wrap; gap: 3px 16px;
+  font-family: 'Marcellus SC', serif; font-size: 10px; letter-spacing: .12em;
+  color: #6d6558; text-transform: uppercase;
+  border-bottom: 1px solid rgba(0,0,0,.35); padding-bottom: 5px; margin-bottom: 14px;
+}
+.sheet-article .masthead {
+  text-align: center; font-family: 'Marcellus SC', serif; font-size: 34px;
+  letter-spacing: .1em; color: #26221c; border-bottom: 3px double rgba(0,0,0,.6);
+  padding-bottom: 8px; margin-bottom: 12px;
+}
+.sheet-article .art-headline {
+  font-family: 'EB Garamond', Georgia, serif !important; font-weight: 600 !important; font-size: 23px !important;
+  line-height: 1.2; margin: 0 0 4px; color: var(--ink) !important;
+  border-bottom: none !important; letter-spacing: normal !important;
+}
+.sheet-article .art-byline { font-family: 'EB Garamond', Georgia, serif; font-style: italic; font-size: 13px; color: #6d6558; margin-bottom: 14px; }
+.sheet-article .sheet-content { column-count: 2; column-gap: 26px; column-rule: 1px solid rgba(0,0,0,.18); }
+.sheet-article .sheet-content p { font-family: 'EB Garamond', Georgia, serif; font-size: 13.5px; line-height: 1.6; margin: 0 0 10px; text-align: justify; }
+.sheet-article .sheet-content > p:first-child::first-letter {
+  font-family: 'Marcellus SC', serif; font-size: 40px; float: left;
+  line-height: .85; padding: 3px 8px 0 0; color: var(--sheet-accent);
+}
+@media (max-width: 560px) { .sheet-article .sheet-content { column-count: 1; } }
+
+/* ---------- case report (archival / police style) ---------- */
+.sheet-report {
+  background:
+    radial-gradient(ellipse 420px 300px at 85% 8%, rgba(0,0,0,.05), transparent 70%),
+    radial-gradient(ellipse 520px 380px at 8% 92%, rgba(0,0,0,.045), transparent 70%),
+    repeating-linear-gradient(0deg, rgba(0,0,0,.014) 0 2px, transparent 2px 5px),
+    var(--paper-white);
+  transform: rotate(var(--sheet-tilt, -0.5deg));
+  padding-top: 34px;
+}
+.sheet-report .report-title {
+  text-align: center; font-family: 'Marcellus SC', serif;
+  font-size: 29px; letter-spacing: .06em; color: #1d1a15;
+  border-bottom: 3px solid #1d1a15; padding-bottom: 7px; margin-bottom: 20px;
+}
+.sheet-report .report-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 12px 26px; margin-bottom: 10px;
+}
+@media (max-width: 560px) { .sheet-report .report-grid { grid-template-columns: 1fr; } }
+.sheet-report .report-grid .cell { display: flex; gap: 8px; align-items: baseline; min-width: 0; }
+.sheet-report .report-grid .k { font-family: 'Marcellus SC', serif; font-size: 12px; letter-spacing: .06em; color: #3d3a35; white-space: nowrap; }
+.sheet-report .report-grid .v { flex: 1; min-width: 0; font-family: 'Caveat', cursive; font-size: 21px; color: var(--hand-ink); border-bottom: 1px solid rgba(0,0,0,.3); line-height: 1.1; padding-bottom: 2px; }
+.sheet-report .report-grid .v.tw { font-family: 'Special Elite', monospace; font-size: 14px; color: var(--ink); }
+.sheet-report .report-incident { font-family: 'Caveat', cursive !important; font-size: 21px !important; line-height: 1.4 !important; color: var(--hand-ink) !important; margin: 12px 0 4px; border-bottom: none !important; letter-spacing: normal !important; }
+.sheet-report .sheet-content p { font-family: 'Caveat', cursive; font-size: 21px; line-height: 1.5; color: var(--hand-ink); margin: 0 0 12px; }
+.sheet-report .sheet-content p:last-child { margin-bottom: 72px; }
+/* Redaction bar: visual only - the words remain in the page source. */
+.sheet .rx {
+  background: #141312; color: transparent; padding: 0 2px; border-radius: 1px;
+  line-height: 1.02;
+  box-decoration-break: clone; -webkit-box-decoration-break: clone;
+  display: inline-block; transform: rotate(var(--rx-tilt, -0.4deg));
+  box-shadow: 0 0 1px rgba(0,0,0,.65); user-select: none;
+}
+.sheet .rx::selection { background: #141312; color: transparent; }
+.sheet .report-grid .v.rx { color: transparent; }
+.sheet .rx:nth-of-type(3n) { --rx-tilt: 0.5deg; }
+.sheet .rx:nth-of-type(4n) { --rx-tilt: -0.9deg; }
+.sheet .stamp-conf {
+  position: absolute; right: 18px; top: 26px;
+  font-family: 'Marcellus SC', serif; font-size: 17px; letter-spacing: .22em;
+  color: var(--sheet-accent-lite); border: 3px double var(--sheet-accent-lite); border-radius: 3px;
+  padding: 7px 16px; transform: rotate(-14deg); opacity: .62; filter: blur(.3px);
+  box-shadow: 0 0 0 1.5px rgba(201,77,77,.22);
+}
+@media (max-width: 560px) {
+  .sheet .stamp-conf { top: 16px; right: 6px; font-size: 12px; padding: 4px 9px; }
+}
+.sheet .coffee {
+  position: absolute; right: 12px; bottom: 96px; width: 118px; height: 118px;
+  border-radius: 50%; border: 7px solid rgba(122, 82, 42, .15);
+  box-shadow: inset 0 0 0 3px rgba(122,82,42,.09);
+  transform: rotate(24deg) scaleY(.96); pointer-events: none;
+}
+.sheet .coffee::after {
+  content: ""; position: absolute; left: -28px; bottom: -16px; width: 46px; height: 15px;
+  background: radial-gradient(ellipse, rgba(122,82,42,.2), transparent 70%);
+  border-radius: 50%;
+}
+.sheet .paperclip {
+  position: absolute; top: -16px; left: 48px; width: 21px; height: 62px;
+  border: 3px solid #9aa0a8; border-radius: 11px 11px 9px 9px;
+  box-shadow: 0 2px 4px rgba(0,0,0,.3);
+  background: linear-gradient(to bottom, rgba(255,255,255,.25), transparent 40%);
+  transform: rotate(4deg); z-index: 1;
+}
+.sheet .paperclip::after {
+  content: ""; position: absolute; left: 4px; right: 4px; top: 7px; height: 38px;
+  border: 2.5px solid #b9bec6; border-bottom: none; border-radius: 7px 7px 0 0;
+}
+
+/* ---------- board / collage ---------- */
+.board {
+  background:
+    radial-gradient(circle at 20% 15%, rgba(255,255,255,.025) 0 2px, transparent 2px),
+    radial-gradient(circle at 70% 60%, rgba(255,255,255,.02) 0 2px, transparent 2px),
+    repeating-linear-gradient(35deg, rgba(0,0,0,.14) 0 3px, transparent 3px 7px),
+    #211a15;
+  border: 10px solid #17110d;
+  border-radius: 4px;
+  position: relative;
+  padding: 26px 22px;
+  margin: 28px auto 40px;
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;
+  box-shadow: 0 14px 34px rgba(0,0,0,.5);
+  max-width: 720px;
+}
+.board .pin-card {
+  position: relative; background: var(--paper-white); padding: 12px 12px 16px;
+  box-shadow: 0 4px 10px rgba(0,0,0,.55);
+  font-family: 'Special Elite', monospace; font-size: 10.5px; color: var(--ink); line-height: 1.5;
+}
+.board .pin-card a { color: #6e1f1f; }
+.board .pin-card.hand { background: var(--paper-ledger); font-family: 'Caveat', cursive; font-size: 16px; line-height: 1.25; color: var(--hand-ink); }
+.board .pin-card.photo { background: #e8e4da; min-height: 110px; display: flex; align-items: center; justify-content: center; }
+.board .pin-card.photo span { font-family: 'EB Garamond', Georgia, serif; font-style: italic; font-size: 11px; color: #8a8172; }
+.board .pin-card.index-tab {
+  background: var(--paper-manila); font-family: 'Marcellus SC', serif;
+  letter-spacing: .12em; font-size: 12px; text-align: center; padding: 18px 10px;
+}
+.board .r1 { transform: rotate(-2.2deg); } .board .r2 { transform: rotate(1.4deg); }
+.board .r3 { transform: rotate(-0.7deg); } .board .r4 { transform: rotate(2deg); }
+.board .r5 { transform: rotate(-1.3deg); } .board .r6 { transform: rotate(0.9deg); }
+.board .pin {
+  position: absolute; top: -7px; left: 50%; transform: translateX(-50%);
+  width: 13px; height: 13px; border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #e06a6a, var(--sheet-accent) 70%);
+  box-shadow: 0 3px 4px rgba(0,0,0,.6);
+}
+
+/* ---------- annotation spans (usable inside any sheet) ---------- */
+.sheet .hl { background: rgba(255, 209, 60, .5); padding: 1px 3px; border-radius: 2px; }
+.sheet .ul { text-decoration: underline wavy var(--pencil); text-decoration-thickness: 1.5px; text-underline-offset: 4px; }
+.sheet .circled { position: relative; white-space: nowrap; }
+.sheet .circled::after {
+  content: ""; position: absolute; inset: -5px -9px;
+  border: 2px solid var(--pencil); border-radius: 48% 52% 55% 45% / 58% 46% 54% 42%;
+  transform: rotate(-1.5deg); opacity: .85;
+}

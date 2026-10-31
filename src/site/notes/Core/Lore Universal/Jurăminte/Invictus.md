@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/invictus/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"kind":"report","report_title":"Despre \"problema\" Invictus","report_fields":[{"k":"Caseasd No:","v":"asd","style":"tw"},{"k":"Date:asdsad","v":"asdsad"},{"k":"Reporting officer:","v":"asdasd"},{"k":"Prepared basday:","v":"aasdas"}],"incident":"lets see test","stamp_conf":"asdsad","paperclip":true,"coffee":false,"footer":{"left":"","right":""}}}
+{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/invictus/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"kind":"report","report_title":"Despre \"problema\" Invictus","report_fields":[{"k":"Cazuistică:","v":"Triburi, Clanuri și alte organizații","style":"tw"},{"k":"Nivel:","v":"Important"},{"k":"Analist:","v":"[[Raducanu|Mircea Răducanu]]"},{"k":"Alte note:","v":"N/A"}],"incident":"un","stamp_conf":"CONFIRMAT","paperclip":true,"coffee":false,"footer":{"left":"Sub egida [[Sworn of Mysteries|Osânditului Misterelor]]","right":"și a [[Dracula|Mai-Marelui Voievod]]"}}}
 ---
 
 ==Invictus este Întâia Moșie, singurul descendent legitim al [Camarillei Romane](https://whitewolf.fandom.com/wiki/Camarilla_(VTR)).==

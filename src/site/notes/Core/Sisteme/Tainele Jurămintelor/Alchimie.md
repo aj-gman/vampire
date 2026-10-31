@@ -15,7 +15,7 @@ Oamenii sunt doar recipiente de [[Vitae\|Vitae]].
 Suprimarea atasamentului, a durerii.
 Exceptiile ar face sistemul neconsecvent.
 
-- Cenzurarea [[Bestia\|Bestiei]]
+- Cenzurarea [[Core/Sisteme/Fiara\|Bestiei]]
 - 
 
 The result of [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]] research and experimenting, this [Quasi-Discipline](https://gmantabletops.miraheze.org/wiki/Category:Disciplines#Quasi-Disciplines "Category:Disciplines") allows those Kindred to circumvent their ontological state of being, developing resistances to things thought impossible. Each Coil allows the scholar to develop so-called Scales, which are specific rituals that, while torturous and risky, can grant non-scholars almost the same capabilities. Coils are determined by Vices, which the Dragons seek to control and overpower.

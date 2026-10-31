@@ -1,7 +1,7 @@
 ---
 layout: layouts/note.njk
 ---
-<div class="sheet-wrap" style="max-width: 720px;{% if sheet.tilt %} --sheet-tilt: {{ sheet.tilt }}deg;{% endif %}">
+<div class="sheet-wrap" style="max-width: 880px;{% if sheet.tilt %} --sheet-tilt: {{ sheet.tilt }}deg;{% endif %}">
   <div class="sheet sheet-article{% if sheet.paper %} paper-{{ sheet.paper }}{% endif %}">
     {% if sheet.art_running %}<div class="art-running">{% for item in sheet.art_running %}<span>{{ item }}</span>{% endfor %}</div>{% endif %}
     <div class="masthead">{{ sheet.masthead or title or page.fileSlug }}</div>

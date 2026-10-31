@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/invictus/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"wip":"tradus"}}
+{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/invictus/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"kind":"letter","letterhead":"","letter_date":"31 October 2026","to":{"name":"","address":[]},"from":{"name":"","signature":""},"footer":{"left":"","right":""}}}
 ---
 
 Invictus este Întâia Moșie, singurul descendent legitim al [Camarillei Romane](https://whitewolf.fandom.com/wiki/Camarilla_(VTR)).

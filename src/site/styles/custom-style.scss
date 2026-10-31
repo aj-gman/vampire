@@ -347,6 +347,76 @@ body {
   box-shadow: 0 3px 4px rgba(0,0,0,.6);
 }
 
+
+/* ---------- callouts as sticky notes (document layouts only) ----------
+   Obsidian callouts become handwritten sticky notes stuck on the paper:
+   compact post-it shape instead of a full-width theme box. Content, type,
+   fold behaviour and links are untouched; ordinary pages keep the theme
+   callouts. */
+.sheet .callout, .board .callout {
+  --sticky-bg: #f2e28a;              /* classic canary post-it */
+  mix-blend-mode: normal;
+  background:
+    linear-gradient(to bottom, rgba(120, 96, 20, .14), transparent 22px),
+    var(--sticky-bg);
+  border: none;
+  border-radius: 1px 1px 10px 1px;
+  width: fit-content;
+  max-width: 300px;
+  padding: 16px 18px 15px;
+  margin: 20px 0 22px 4px;
+  color: #3d3423;
+  box-shadow: 0 1px 2px rgba(0,0,0,.3), 0 9px 16px rgba(0,0,0,.28);
+  transform: rotate(-1.1deg);
+  break-inside: avoid;
+}
+.sheet .callout:nth-of-type(even), .board .callout:nth-of-type(even) { transform: rotate(1.3deg); }
+/* Post-it tints per callout type. */
+.sheet .callout[data-callout="bug"], .board .callout[data-callout="bug"],
+.sheet .callout[data-callout="error"], .board .callout[data-callout="error"],
+.sheet .callout[data-callout="fail"], .board .callout[data-callout="fail"],
+.sheet .callout[data-callout="failure"], .board .callout[data-callout="failure"],
+.sheet .callout[data-callout="danger"], .board .callout[data-callout="danger"] { --sticky-bg: #f0b9c2; }
+.sheet .callout[data-callout="info"], .board .callout[data-callout="info"],
+.sheet .callout[data-callout="note"], .board .callout[data-callout="note"],
+.sheet .callout[data-callout="todo"], .board .callout[data-callout="todo"] { --sticky-bg: #b3d6ee; }
+.sheet .callout[data-callout="success"], .board .callout[data-callout="success"],
+.sheet .callout[data-callout="check"], .board .callout[data-callout="check"],
+.sheet .callout[data-callout="done"], .board .callout[data-callout="done"],
+.sheet .callout[data-callout="question"], .board .callout[data-callout="question"],
+.sheet .callout[data-callout="help"], .board .callout[data-callout="help"] { --sticky-bg: #bde3b4; }
+.sheet .callout[data-callout="warning"], .board .callout[data-callout="warning"],
+.sheet .callout[data-callout="caution"], .board .callout[data-callout="caution"],
+.sheet .callout[data-callout="attention"], .board .callout[data-callout="attention"] { --sticky-bg: #f3cd8f; }
+.sheet .callout[data-callout="quote"], .board .callout[data-callout="quote"],
+.sheet .callout[data-callout="cite"], .board .callout[data-callout="cite"] { --sticky-bg: #f1eee1; }
+/* A sticky note is handwritten; the printed sheet fonts stay outside it. */
+.sheet .sheet-content .callout p,
+.sheet .sheet-content .callout li,
+.board .callout p, .board .callout li {
+  font-family: 'Caveat', cursive; font-weight: 400;
+  font-size: 20px; line-height: 1.3; color: #3d3423;
+  margin: 0 0 6px; text-align: left; background: none;
+}
+.sheet .sheet-content .callout p:last-child,
+.sheet .sheet-content .callout ul:last-child,
+.sheet .sheet-content .callout ol:last-child { margin-bottom: 0; }
+.sheet .callout .callout-title, .board .callout .callout-title {
+  font-family: 'Caveat', cursive; font-weight: 600; font-size: 22px;
+  line-height: 1.2; color: #33290f;
+  border-bottom: 1.5px solid rgba(61, 52, 35, .45);
+  padding-bottom: 2px; margin-bottom: 6px;
+}
+.sheet .callout .callout-icon, .board .callout .callout-icon { display: none; }
+.sheet .callout .callout-fold, .board .callout .callout-fold { color: #6b5c34; }
+/* Long notes grow downward; never clip. */
+.sheet .callout .callout-content, .board .callout .callout-content {
+  max-height: none; overflow: visible;
+}
+
+/* A note that closes the document still leaves room for the running footer. */
+.sheet .sheet-content > .callout:last-child { margin-bottom: 72px; }
+
 /* ---------- mobile: keep the compact metrics the desktop just outgrew ---------- */
 @media (max-width: 560px) {
   .sheet { padding: 34px 40px 46px; }
@@ -375,6 +445,10 @@ body {
   .board .pin-card.hand { font-size: 16px; }
   .board .pin-card.index-tab { font-size: 13px; }
   .board .pin-card.photo span { font-size: 11px; }
+  .sheet .callout, .board .callout { max-width: 100%; padding: 13px 15px 12px; margin: 16px 0 18px 2px; }
+  .sheet .sheet-content > .callout:last-child { margin-bottom: 56px; }
+  .sheet .sheet-content .callout p, .sheet .sheet-content .callout li { font-size: 18px; }
+  .sheet .callout .callout-title { font-size: 19px; }
 }
 
 /* ---------- annotation spans (usable inside any sheet) ---------- */

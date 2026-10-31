@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/tainele-juramintelor/vrajitorie/","dg-note-properties":{"wip":"tradus, scris"}}
+{"dg-publish":true,"dg-path":"Reguli/Tainele Jurămintelor/Vrăjitorie.md","permalink":"/reguli/tainele-juramintelor/vrajitorie/","dg-note-properties":{"wip":"tradus, scris"}}
 ---
 
 #quasi-discipline 

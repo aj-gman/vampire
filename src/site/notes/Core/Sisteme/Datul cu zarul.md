@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/datul-cu-zarul/","dg-note-properties":{"wip":"scris"}}
+{"dg-publish":true,"dg-path":"Reguli/Datul cu zarul.md","permalink":"/reguli/datul-cu-zarul/","dg-note-properties":{"wip":"scris"}}
 ---
 
 

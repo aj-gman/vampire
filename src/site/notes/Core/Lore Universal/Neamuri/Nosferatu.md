@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/neamuri/nosferatu/","tags":["neam"],"dg-note-properties":{"tags":["neam"]}}
+{"dg-publish":true,"dg-path":"Lore/Neamuri/Nosferatu.md","permalink":"/lore/neamuri/nosferatu/","tags":["#neam"],"dg-note-properties":{"tags":["#neam"]}}
 ---
 
 # de care ți-e frică...
 RO: **Strigoii, Dracii**
 
 ## Disciplines / Taine
-### [[Core/Sisteme/Taine/Oroare\|Oroare]], [[Core/Sisteme/Taine/Obfuscare\|Obfuscare]], [[Core/Sisteme/Taine/Potenta\|Potenta]]
+### [[Core/Sisteme/Taine/Oroare\|Oroare]], [[Core/Sisteme/Taine/Obfuscare\|Obfuscare]], [[Core/Sisteme/Taine/Potență\|Potență]]
 
 ## _The Ones You Fear..._
 *The stray dog that keeps following you asking for food that you're scared is just going to take a pound of flesh. The reason you keep turning your head when you're going home at night. Why horror stories online seem so scary - anonymity, death, despair. Even when you try to make friends with them, something's off.*

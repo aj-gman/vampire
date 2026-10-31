@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/lancea-et-sanctum/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"kind":"report","report_title":"raport Lancea","report_fields":[{"k":"Cazuistică:","v":"Triburi, Clanuri și alte organizații","style":"tw"},{"k":"Nivel:","v":"Irelevant"},{"k":"Analist:","v":"[[Corneliu|Corneliu Ștefan II]]"},{"k":"Alte note:","v":"Nimic nou, vedeți raportul anterior"}],"incident":null,"stamp_conf":"CONFIRMAT","paperclip":false,"coffee":true,"footer":{"left":"Sub egida [[Sworn of Mysteries|OSÂNDITULUI MISTERELOR]]","right":"și a [[Dracula|MAI MARELUI-VOIEVOD]]"}}}
+{"dg-publish":true,"dg-path":"Lore/Jurăminte/Lancea et Sanctum.md","permalink":"/lore/juraminte/lancea-et-sanctum/","tags":["#jurământ"],"dg-note-properties":{"tags":["#jurământ"],"kind":"report","report_title":"raport Lancea","report_fields":[{"k":"Cazuistică:","v":"Triburi, Clanuri și alte organizații","style":"tw"},{"k":"Nivel:","v":"Irelevant"},{"k":"Analist:","v":"[[Corneliu|Corneliu Ștefan II]]"},{"k":"Alte note:","v":"Nimic nou, vedeți raportul anterior"}],"incident":null,"stamp_conf":"CONFIRMAT","paperclip":false,"coffee":true,"footer":{"left":"Sub egida [[Sworn of Mysteries|OSÂNDITULUI MISTERELOR]]","right":"și a [[Dracula|MAI MARELUI-VOIEVOD]]"}}}
 ---
 
 

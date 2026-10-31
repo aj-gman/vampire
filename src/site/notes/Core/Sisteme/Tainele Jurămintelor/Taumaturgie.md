@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/tainele-juramintelor/taumaturgie/","dg-note-properties":{"wip":"tradus, scris"}}
+{"dg-publish":true,"dg-path":"Reguli/Tainele Jurămintelor/Taumaturgie.md","permalink":"/reguli/tainele-juramintelor/taumaturgie/","dg-note-properties":{"wip":"tradus, scris"}}
 ---
 
 #quasi-discipline 

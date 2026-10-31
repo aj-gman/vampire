@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/neamuri/mekhet/","tags":["neam"],"dg-note-properties":{"tags":["neam"]}}
+{"dg-publish":true,"dg-path":"Lore/Neamuri/Mekhet.md","permalink":"/lore/neamuri/mekhet/","tags":["neam"],"dg-note-properties":{"tags":["neam"]}}
 ---
 
 # pe care nu-i poți vedea...

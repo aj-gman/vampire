@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/neamuri/gangrel/","tags":["neam"],"dg-note-properties":{"tags":["neam"]}}
+{"dg-publish":true,"dg-path":"Lore/Neamuri/Gangrel.md","permalink":"/lore/neamuri/gangrel/","tags":["neam"],"dg-note-properties":{"tags":["neam"]}}
 ---
 
 # pe care nu-i poți omorî...

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/cacofonia/","dg-note-properties":{"wip":"tradus"}}
+{"dg-publish":true,"dg-path":"Lore/Cacofonia.md","permalink":"/lore/cacofonia/","dg-note-properties":{"wip":"tradus"}}
 ---
 
 Mortals walk the streets, and there is a humming in the back of their lizard brains. A music in the graffiti, in the underground performance art, in the rhymes penned on bathroom stalls, flyers blowing as discordant notes on the wind. 

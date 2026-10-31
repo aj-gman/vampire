@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/blestemul/","dg-note-properties":{"wip":"tradus"}}
+{"dg-publish":true,"dg-path":"Lore/Blestemul.md","permalink":"/lore/blestemul/","dg-note-properties":{"wip":"tradus"}}
 ---
 
 After being Embraced, the Kindred is caught in a state of limbo, between life and death, in what the larger supernatural society call "unlife". In order to survive, they must sap the essence from others by draining their blood and reforming it into '''Vitae'''. Vitae is incredibly potent, being used in [[:Category:Disciplines\|Disciplines]], [[Blood Sorcery\|Blood Sorcery]] and other supernatural endeavors. It is also primarily responsible for creating Ghouls and Revenants. As one grows older, their dependance on blood increases, but so do their powers - this is marked by their Blood Potency, which determines how powerful their abilities are, but also how much they have to feed to maintain that. Elders gain pennies on the dollar when consuming mortals: the only way to quench their thirst is to consume Vitae in its pure form, by draining vampires.
@@ -81,7 +81,7 @@ Damage from Sunlight occurs with a Frequency that depends on one's blood potency
 '''Daysleep''' is a condition that all vampires are forced into because of their Curse. Vampires have had their circadian rhythm shifted. As such, it takes mental fortitude for a vampire to wake during the day or stay awake after the sunrise. Every time a vampire chooses to rise, they spend their Blood Potency in Vitae to be able to do that. Otherwise, they can stay in '''Torpor''' for an indefinite time, but there are consequences.
 
 === Torpor ===
-See Humanity for how long you fall asleep for if you unwillingly go into torpor because of [[Core/Sisteme/Damage#Taking Damage\|damage]].
+See Humanity for how long you fall asleep for if you unwillingly go into torpor because of [[Core/Sisteme/Conflictul#Taking Damage\|damage]].
 
 What happens if you voluntarily go into torpor? Big sleep. {{Template:WIP}}
 == The Beast ==

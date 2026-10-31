@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/specii/gargui/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Lore/Specii/Gargui.md","permalink":"/lore/specii/gargui/","dg-note-properties":{}}
 ---
 
 The **Gargoyles** are [automata](https://en.wikipedia.org/wiki/Automaton) first created by the [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]] as their servitors. The birthing ritual of Gargoyles has been largely kept a secret from the other covenants. This, in turn, has led to a concerted effort by the likes of the [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|Mișcarea Cartiană]] to "free" **Gargoyles** from [[Core/Lore Universal/Jurăminte/Ordo Dracul\|the Order]], with mixed results. Unfortunately, when their master dies, Gargoyles often crumble to dust unless precautions were made to render it only inert, or sometimes even free.

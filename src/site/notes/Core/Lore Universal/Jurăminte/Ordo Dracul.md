@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/ordo-dracul/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"wip":"tradus"}}
+{"dg-publish":true,"dg-path":"Lore/Jurăminte/Ordo Dracul.md","permalink":"/lore/juraminte/ordo-dracul/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"wip":"tradus"}}
 ---
 
 ==Ordinul, Dragonii, Ordinul Dragonului==
@@ -19,7 +19,7 @@ Covenant of vampire scholars and thaumaturges using their quasi-Disciplines know
 - There are also Camps[^5], which give way to a sort of religion amongst the Order.
 
 
-# [[Romania/Bucuresti/București\|București]]
+# [[Romania/Bucuresti/Altele/București\|București]]
 
 The Bucharest Lodge regards itself as the capital, due to the historical ties that bind. It is said that the Dragon himself resides in this chapter, although any Kindred who dares explore that ends up more Damned than before.
 
@@ -40,17 +40,17 @@ The Voivodes of Ordo Dracul do not care about appeasing the other covenants, but
 
 
 #### Structure
-- [[Romania/Bucuresti/!personaje/Ordo Dracul/Generalul\|Generalul]], known as Marele Voievod[^6].
+- [[Romania/Bucuresti/Personaje/Ordo Dracul/Generalul\|Generalul]], known as Marele Voievod[^6].
 	- Under him, the Sworn of Dracula fulfill the bureaucratic procedures.
-	- The [[Romania/Bucuresti/!personaje/Ordo Dracul/Sworn of Mysteries\|Sworn of Mysteries]] deals with social structures, communicating and following the other Covenants, holding roundtables and organizing conferences. 
+	- The [[Romania/Bucuresti/Personaje/Ordo Dracul/Sworn of Mysteries\|Sworn of Mysteries]] deals with social structures, communicating and following the other Covenants, holding roundtables and organizing conferences. 
 		- While this might seem to be his entire role, his more important work has to do with tracking, following and pinpointing each vampire's whereabouts, reminiscent of his past work with the [Securitate](https://en.wikipedia.org/wiki/Securitate).
-	- The [[Romania/Bucuresti/!personaje/Ordo Dracul/Sworn of the Axe\|Sworn of the Axe]] is the Protector of the Lore, including rites and research. He is by far the most adept at combat. Although his violent role is mostly honorary (executions), when Covenants get out of line he steps in.
+	- The [[Romania/Bucuresti/Personaje/Ordo Dracul/Sworn of the Axe\|Sworn of the Axe]] is the Protector of the Lore, including rites and research. He is by far the most adept at combat. Although his violent role is mostly honorary (executions), when Covenants get out of line he steps in.
 		- His pastime revolves around pushing around Carthians and the Invictus, who are the most prone to violence and territorial expansion.
-	- The [[Romania/Bucuresti/!personaje/Ordo Dracul/Sworn of the Dying Light\|Sworn of the Dying Light]] is the scientist supreme, in charge of deciding the focus of the various schools of mysteries. Leading researcher and strategic policy planner.
+	- The [[Romania/Bucuresti/Personaje/Ordo Dracul/Sworn of the Dying Light\|Sworn of the Dying Light]] is the scientist supreme, in charge of deciding the focus of the various schools of mysteries. Leading researcher and strategic policy planner.
 		- A more important role than recognized, destroying or capturing other knowledge from the likes of Lancea or the Crones is a constant in his night-to-night.
 		- He is the optimal communicator for in-between the Order. A small Dragon can call upon his master to call upon their master to contact the Sworn and obtain an audience.
 
-![[Romania/Bucuresti/B-Vampyramid.canvas\|B-Vampyramid.canvas]]
+![[Romania/Bucuresti/Altele/B-Vampyramid.canvas\|B-Vampyramid.canvas]]
 
 
 ### [[Louisiana\|Louisiana]]

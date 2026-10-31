@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/neamuri/ventrue/","tags":["neam"],"dg-note-properties":{"tags":["neam"]}}
+{"dg-publish":true,"dg-path":"Lore/Neamuri/Ventrue.md","permalink":"/lore/neamuri/ventrue/","tags":["neam"],"dg-note-properties":{"tags":["neam"]}}
 ---
 
 # pe care nu îi refuzi.

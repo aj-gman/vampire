@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/tainele-juramintelor/alchimie/","tags":["taină"],"dg-note-properties":{"wip":"tradus","tags":["taină"]}}
+{"dg-publish":true,"dg-path":"Reguli/Tainele Jurămintelor/Alchimie.md","permalink":"/reguli/tainele-juramintelor/alchimie/","tags":["#taină"],"dg-note-properties":{"wip":"tradus","tags":["#taină"]}}
 ---
 
-Este o #taină specifică Jurământului [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]], fiind o proto-știință ce îmbină elemente din ambele [[Magick\|Magii]] cunoscute [[Core/Lore Universal/Specii/Vampir\|Imbratisatilor]] pentru a se dezice complet de [[Core/Sisteme/Blestemul\|natura lor ontologica]]. 
+Este o #taină specifică Jurământului [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]], fiind o proto-știință ce îmbină elemente din ambele [[Magick\|Magii]] cunoscute [[Core/Lore Universal/Specii/Vampir\|Imbratisatilor]] pentru a se dezice complet de [[Core/Sisteme/Personaj/Blestemul\|natura lor ontologica]]. 
 
 Un [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Dragon]] expert poate crea un astfel de [[Core/Sisteme/Tainele Jurămintelor/Ritualism#Creație\|Ritual]] in **doar câteva minute**, in timp ce un novice **ar sta o oră sau chiar mai mult** si pentru un [[Core/Sisteme/Tainele Jurămintelor/Ritualism#Creație\|Ritual]] incredibil de simplu.
 
-Greutatea [[Core/Sisteme/Tainele Jurămintelor/Ritualism\|Ritualului]] si lipsa de experiența generează **[[Core/Sisteme/zaruri de pericol\|zaruri de pericol]]**[^1]. Daca in încercarea unui ritual exista mai multe [[Core/Sisteme/zaruri de pericol\|zaruri de pericol]] decat zaruri normale, [[Core/Sisteme/Datul cu zarul\|un esec]] se va transforma într-un [[Core/Sisteme/Datul cu zarul\|eșec groaznic]].
+Greutatea [[Core/Sisteme/Tainele Jurămintelor/Ritualism\|Ritualului]] si lipsa de experiența generează **[[Core/Sisteme/Zaruri de Pericol\|Zaruri de Pericol]]**[^1]. Daca in încercarea unui ritual exista mai multe [[Core/Sisteme/Zaruri de Pericol\|Zaruri de Pericol]] decat zaruri normale, [[Core/Sisteme/Datul cu zarul\|un esec]] se va transforma într-un [[Core/Sisteme/Datul cu zarul\|eșec groaznic]].
 
 [[Core/Sisteme/Tainele Jurămintelor/Alchimie\|Alchimia]] se centrează pe abolirea spiritualității in favoarea rațiunii.
 Doar ce poate fi cuantificat conteaza.
@@ -15,7 +15,7 @@ Oamenii sunt doar recipiente de [[Vitae\|Vitae]].
 Suprimarea atasamentului, a durerii.
 Exceptiile ar face sistemul neconsecvent.
 
-- Cenzurarea [[Core/Sisteme/Fiara\|Bestiei]]
+- Cenzurarea [[Core/Sisteme/Personaj/Fiara\|Bestiei]]
 - 
 
 The result of [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]] research and experimenting, this [Quasi-Discipline](https://gmantabletops.miraheze.org/wiki/Category:Disciplines#Quasi-Disciplines "Category:Disciplines") allows those Kindred to circumvent their ontological state of being, developing resistances to things thought impossible. Each Coil allows the scholar to develop so-called Scales, which are specific rituals that, while torturous and risky, can grant non-scholars almost the same capabilities. Coils are determined by Vices, which the Dragons seek to control and overpower.
@@ -37,4 +37,4 @@ The result of [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]] resear
 - **Sloth,** which helps the scholar endure age-long torpor without losing himself to time.
 - **Wrath,** which forces the Beast into submission, controlling it as if it were a child in need of care.
 
-[^1]: fiecare [[Core/Sisteme/zaruri de pericol\|zar de pericol]] invalideaza un zar cu aceeasi valoare al jucatorului.
+[^1]: fiecare [[Core/Sisteme/Zaruri de Pericol\|zar de pericol]] invalideaza un zar cu aceeasi valoare al jucatorului.

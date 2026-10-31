@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/tainele-juramintelor/legea/","tags":["taină"],"dg-note-properties":{"titlu":"Legea Carthiană","wip":"adaptat","tags":["taină"]}}
+{"dg-publish":true,"dg-path":"Reguli/Tainele Jurămintelor/Legea.md","permalink":"/reguli/tainele-juramintelor/legea/","tags":["#taină"],"dg-note-properties":{"titlu":"Legea Carthiană","wip":"adaptat","tags":["#taină"]}}
 ---
 
 Este o #taină specifica Jurământului [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|Cartian]], fiind
@@ -50,7 +50,7 @@ Nu poți pur și simplu să folosești Legea, la fel cum nu poți stăpâni [[Bl
 * '''[[Roman Constitution\|Roman Constitution]]'''
 * '''Beast of Law''' '''(●●)''' - Even your Beast in a Frenzy, when attempting to break Carthian Law, may reconsider the action if the Player Character succeeds on a Resolve + Carthian Status - Blood Potency.
 * '''Birth Control (●●●)''' - All attempts at Embrace automatically fail and revenants do not spawn as effect of Kindred negligence.
-* '''Breaking Bread (●●●)''' - If attending one's Domain at their invitation, whoever becomes needlessly rude or hostile receives their Carthian Status in [[Core/Sisteme/Damage#Taking Damage\|Superficial Damage]] for an entire minute (~20 turns).
+* '''Breaking Bread (●●●)''' - If attending one's Domain at their invitation, whoever becomes needlessly rude or hostile receives their Carthian Status in [[Core/Sisteme/Conflictul#Taking Damage\|Superficial Damage]] for an entire minute (~20 turns).
 * '''Private Property (●●●)'''
 * '''Legal Guardian (●)'''
 * '''Rules of Engagement (●●●)'''

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/neamuri/daeva/","tags":["neam"],"dg-note-properties":{"tags":["neam"]}}
+{"dg-publish":true,"dg-path":"Lore/Neamuri/Daeva.md","permalink":"/lore/neamuri/daeva/","tags":["#neam"],"dg-note-properties":{"tags":["#neam"]}}
 ---
 
 # pe care nu vrei să-i refuzi...
 RO: **Desfrânații, Ielele**
 
 ## Taine
-### [[Core/Sisteme/Taine/Celeritate\|Celeritate]], [[Core/Sisteme/Taine/Maiestate\|Maiestate]], [[Core/Sisteme/Taine/Potenta\|Potenta]]
+### [[Core/Sisteme/Taine/Celeritate\|Celeritate]], [[Core/Sisteme/Taine/Maiestate\|Maiestate]], [[Core/Sisteme/Taine/Potență\|Potență]]
 
 ## _The Ones You Don't Want To Say No To..._
 _She's the one that got away. He's the guy with long hair and piercings you've seen across the room. She's smiling at you like she wants you to put her in a locker room and just... He's a demon just out for blood. The perfume and cologne hides away all the smell of rotting flesh they inevitably have. Even if you know what they are, you do not care. Their sweet body tastes so divine... And you are just exploited. They're the toxic relationship you cannot get away from. The cult you inevitably found yourself after the divorce. The parent you never want to disappoint because they love you so._

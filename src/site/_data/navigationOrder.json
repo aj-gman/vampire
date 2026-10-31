@@ -1,0 +1,174 @@
+{
+  "/": [
+    "Core",
+    "Romania",
+    "Mecanici"
+  ],
+  "/Core": [
+    "Lore Universal",
+    "Sisteme",
+    "Homebrew",
+    "Principles"
+  ],
+  "/Core/Lore Universal": [
+    "Jurăminte",
+    "Neamuri",
+    "Specii",
+    "Blestemul",
+    "Cacofonia",
+    "Îmbrățișarea",
+    "Inchiziția"
+  ],
+  "/Core/Lore Universal/Jurăminte": [
+    "Dezlipiții",
+    "Invictus",
+    "Lancea et Sanctum",
+    "Mișcarea Cartiană",
+    "Ordo Dracul",
+    "VII",
+    "Zgripțuroaicele"
+  ],
+  "/Core/Lore Universal/Neamuri": [
+    "Bloodlines",
+    "Daeva",
+    "Gangrel",
+    "Mekhet",
+    "Nosferatu",
+    "Ventrue"
+  ],
+  "/Core/Lore Universal/Neamuri/Bloodlines": [
+    "Lasombra"
+  ],
+  "/Core/Lore Universal/Specii": [
+    "Gargui",
+    "Moroi"
+  ],
+  "/Core/Sisteme": [
+    "Personaj",
+    "Taine",
+    "Tainele Jurămintelor",
+    "Tradițiile",
+    "Conflictul",
+    "Datul cu zarul",
+    "zaruri de pericol"
+  ],
+  "/Core/Sisteme/Personaj": [
+    "Ambiții",
+    "Blestemul",
+    "Climbing the Ladder",
+    "Fiara",
+    "Istoric",
+    "Sânge",
+    "Stări",
+    "Substanțe"
+  ],
+  "/Core/Sisteme/Taine": [
+    "Animalism",
+    "Auspicii",
+    "Celeritate",
+    "Dominare",
+    "Fortitudine",
+    "Maiestate",
+    "Obfuscare",
+    "Oroare",
+    "Potență",
+    "Protean"
+  ],
+  "/Core/Sisteme/Tainele Jurămintelor": [
+    "Alchimie",
+    "Înțelegerea",
+    "Legea",
+    "Ritualism",
+    "Taumaturgie",
+    "Vrăjitorie"
+  ],
+  "/Core/Sisteme/Tradițiile": [
+    "Diableria",
+    "Mascarada",
+    "Progenitura",
+    "Tradițiile"
+  ],
+  "/Romania": [
+    "Bucuresti",
+    "Moldova"
+  ],
+  "/Romania/Bucuresti": [
+    "!personaje",
+    "București",
+    "Bucuresti Map",
+    "Westmarches"
+  ],
+  "/Romania/Bucuresti/!personaje": [
+    "Ordo Dracul",
+    "Cartieni",
+    "Invictus",
+    "Zgripțuroaice",
+    "Lancea",
+    "Dezlipiți"
+  ],
+  "/Romania/Bucuresti/!personaje/Ordo Dracul": [
+    "Ana Macescu",
+    "Christofor Cantacuzino",
+    "Corneliu",
+    "Frații Manole",
+    "Generalul",
+    "Lucia",
+    "Răducanu",
+    "Sworn of Mysteries",
+    "Sworn of the Axe",
+    "Sworn of the Dying Light"
+  ],
+  "/Romania/Bucuresti/!personaje/Cartieni": [
+    "Aliniamentul Cartian",
+    "Carpati",
+    "Eduard Macescu",
+    "Logaritm",
+    "Lucy",
+    "Mihaela Ulmeanu"
+  ],
+  "/Romania/Bucuresti/!personaje/Invictus": [
+    "Beretta",
+    "Gică Poștașul",
+    "Gigi Puttanesca",
+    "Iulian",
+    "Mihail",
+    "Tac-su Berettei",
+    "Teodosia",
+    "Zimbra",
+    "Zorba Grecul"
+  ],
+  "/Romania/Bucuresti/!personaje/Zgripțuroaice": [
+    "Benz",
+    "Meng Family",
+    "Muresan Family",
+    "Nina"
+  ],
+  "/Romania/Bucuresti/!personaje/Lancea": [
+    "Sburatorul",
+    "Szabina"
+  ],
+  "/Romania/Bucuresti/!personaje/Dezlipiți": [
+    "Septar"
+  ],
+  "/Romania/Moldova": [
+    "Characters"
+  ],
+  "/Romania/Moldova/Characters": [
+    "Atos",
+    "Bloody Mary",
+    "Cercel",
+    "Haita Noua",
+    "Isac Maxim",
+    "Lidia",
+    "Marcus Osmochescu",
+    "Mercedesa",
+    "Michael",
+    "Mirabela",
+    "Olimpia Moldovan",
+    "Petru Krezinski",
+    "Satelit",
+    "Tiberiu",
+    "Valera Tarnavol",
+    "Vera"
+  ]
+}

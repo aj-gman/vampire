@@ -1,0 +1,16 @@
+---
+layout: layouts/note.njk
+---
+<div class="sheet-wrap"{% if tilt %} style="--sheet-tilt: {{ tilt }}deg;"{% endif %}>
+  <div class="sheet sheet-letter{% if paper %} paper-{{ paper }}{% endif %}">
+    <div class="letterhead">{{ letterhead or title or page.fileSlug }}</div>
+    {% if letter_date %}<div class="letter-date tw">{{ letter_date }}</div>{% endif %}
+    {% if to %}<div class="letter-addr tw">{{ to.name }}{% if to.address %}{% for line in to.address %}<br>{{ line }}{% endfor %}{% endif %}</div>{% endif %}
+    <div class="sheet-content">
+      {{ content | safe }}
+    </div>
+    {% if from and from.signature %}<div class="signature">{{ from.signature }}</div>{% endif %}
+    {% if from and from.name %}<div class="signature-role">&mdash; {{ from.name }}</div>{% endif %}
+    {% if footer %}<div class="running-footer"><span>{{ footer.left }}</span><span>{{ footer.right }}</span></div>{% endif %}
+  </div>
+</div>

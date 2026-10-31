@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core/sisteme/tainele-juramintelor/lege-cartiana/","tags":["#taină"],"dg-note-properties":{"titlu":"Legea Carthiană","wip":"adaptat","tags":["#taină"]}}
+{"dg-publish":true,"permalink":"/core/sisteme/tainele-juramintelor/lege-cartiana/","tags":["taină"],"dg-note-properties":{"titlu":"Legea Carthiană","wip":"adaptat","tags":["taină"]}}
 ---
 
 Este o #taină specifica Jurământului [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|Cartian]], fiind

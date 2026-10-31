@@ -1,16 +1,16 @@
 ---
 layout: layouts/note.njk
 ---
-<div class="sheet-wrap"{% if tilt %} style="--sheet-tilt: {{ tilt }}deg;"{% endif %}>
-  <div class="sheet sheet-letter{% if paper %} paper-{{ paper }}{% endif %}">
-    <div class="letterhead">{{ letterhead or title or page.fileSlug }}</div>
-    {% if letter_date %}<div class="letter-date tw">{{ letter_date }}</div>{% endif %}
-    {% if to %}<div class="letter-addr tw">{{ to.name }}{% if to.address %}{% for line in to.address %}<br>{{ line }}{% endfor %}{% endif %}</div>{% endif %}
+<div class="sheet-wrap"{% if sheet.tilt %} style="--sheet-tilt: {{ sheet.tilt }}deg;"{% endif %}>
+  <div class="sheet sheet-letter{% if sheet.paper %} paper-{{ sheet.paper }}{% endif %}">
+    <div class="letterhead">{{ sheet.letterhead or title or page.fileSlug }}</div>
+    {% if sheet.letter_date %}<div class="letter-date tw">{{ sheet.letter_date }}</div>{% endif %}
+    {% if sheet.to %}<div class="letter-addr tw">{{ sheet.to.name }}{% if sheet.to.address %}{% for line in sheet.to.address %}<br>{{ line }}{% endfor %}{% endif %}</div>{% endif %}
     <div class="sheet-content">
       {{ content | safe }}
     </div>
-    {% if from and from.signature %}<div class="signature">{{ from.signature }}</div>{% endif %}
-    {% if from and from.name %}<div class="signature-role">&mdash; {{ from.name }}</div>{% endif %}
-    {% if footer %}<div class="running-footer"><span>{{ footer.left }}</span><span>{{ footer.right }}</span></div>{% endif %}
+    {% if sheet.from and sheet.from.signature %}<div class="signature">{{ sheet.from.signature }}</div>{% endif %}
+    {% if sheet.from and sheet.from.name %}<div class="signature-role">&mdash; {{ sheet.from.name }}</div>{% endif %}
+    {% if sheet.footer %}<div class="running-footer"><span>{{ sheet.footer.left }}</span><span>{{ sheet.footer.right }}</span></div>{% endif %}
   </div>
 </div>

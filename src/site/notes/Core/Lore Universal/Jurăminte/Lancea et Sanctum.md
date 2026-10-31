@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/lancea-et-sanctum/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"wip":"tradus"}}
+{"dg-publish":true,"permalink":"/core/lore-universal/juraminte/lancea-et-sanctum/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"kind":"report","report_title":"raport Lancea","report_fields":[{"k":"Cazuistică:","v":"Triburi, Clanuri și alte organizații","style":"tw"},{"k":"Nivel:","v":"Irelevant"},{"k":"Analist:","v":"[[Corneliu|Corneliu Ștefan II]]"},{"k":"Alte note:","v":"Nimic nou, vedeți raportul anterior"}],"incident":null,"stamp_conf":"CONFIRMAT","paperclip":false,"coffee":true,"footer":{"left":"Sub egida [[Sworn of Mysteries|OSÂNDITULUI MISTERELOR]]","right":"și a [[Dracula|MAI MARELUI-VOIEVOD]]"}}}
 ---
+
+
+
+
 
 **RO: Lancea, Biserica**
 **Covenant of religious worshippers, centered around the figure of Longinus, the Roman centurion that stabbed Jesus on the cross and repented afterwards[^1]. The members of the Lancea are pastors, priests and soldiers but, above all, they are shepherds, guiding God's flock, both Kindred and kine, away from sin, although this can often result in misguided responses derived from their own trauma and principles. The Lancea is the most content with [the state of undead](https://gmantabletops.miraheze.org/wiki/The_Curse "The Curse"), seeing themselves inevitably cursed in order to rise above their condition and please God. They are loyal to a fault, willing to die for their cause and for their brothers and sisters with the belief that it serves a higher purpose.**

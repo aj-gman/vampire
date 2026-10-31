@@ -161,6 +161,54 @@ function getAnchorLink(filePath, linkTitle) {
 // frontmatter edits.
 const anchorAttributesCache = new Map();
 
+// Obsidian-style short wikilinks ([[Note]] with no folder path) resolve by
+// basename anywhere under src/site/notes. Built lazily once per build and
+// cleared in eleventy.before alongside anchorAttributesCache. A basename
+// matching more than one note stays unresolved (with a build warning)
+// rather than silently picking an arbitrary target.
+const noteBasenameIndex = new Map();
+let noteBasenameIndexBuilt = false;
+const ambiguousBasenameWarnings = new Set();
+
+function getNoteBasenameIndex() {
+  if (!noteBasenameIndexBuilt) {
+    const startPath = "./src/site/notes/";
+    const stack = [startPath];
+    while (stack.length) {
+      const dir = stack.pop();
+      for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+        const fullPath = nodePath.join(dir, entry.name);
+        if (entry.isDirectory()) {
+          stack.push(fullPath);
+        } else if (/\.(md|canvas)$/i.test(entry.name)) {
+          const relativePath = nodePath
+            .relative(startPath, fullPath)
+            .split(nodePath.sep)
+            .join("/");
+          const basename = entry.name.replace(/\.(md|canvas)$/i, "");
+          const list = noteBasenameIndex.get(basename) || [];
+          list.push(relativePath);
+          noteBasenameIndex.set(basename, list);
+        }
+      }
+    }
+    noteBasenameIndexBuilt = true;
+  }
+  return noteBasenameIndex;
+}
+
+function readNoteFrontMatter(fileName) {
+  const startPath = "./src/site/notes/";
+  let fullPath;
+  if (fileName.endsWith(".md") || fileName.endsWith(".canvas")) {
+    fullPath = `${startPath}${fileName}`;
+  } else {
+    fullPath = `${startPath}${fileName}.md`;
+  }
+  const file = fs.readFileSync(fullPath, "utf8");
+  return matter(file, matterOptions);
+}
+
 function getAnchorAttributes(filePath, linkTitle) {
   const cacheKey = `${filePath}\x00${linkTitle || ""}`;
   let cached = anchorAttributesCache.get(cacheKey);
@@ -184,16 +232,35 @@ function computeAnchorAttributes(filePath, linkTitle) {
   const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(fileName)}`;
   let deadLink = false;
+  let frontMatter = null;
   try {
-    const startPath = "./src/site/notes/";
-    let fullPath;
-    if (fileName.endsWith(".md") || fileName.endsWith(".canvas")) {
-      fullPath = `${startPath}${fileName}`;
-    } else {
-      fullPath = `${startPath}${fileName}.md`;
+    frontMatter = readNoteFrontMatter(fileName);
+  } catch {
+    frontMatter = null;
+  }
+  if (!frontMatter && !fileName.includes("/")) {
+    // Short link: fall back to a unique basename match elsewhere in the vault.
+    const basename = fileName.replace(/\.(md|canvas)$/i, "");
+    const candidates = getNoteBasenameIndex().get(basename) || [];
+    if (candidates.length === 1) {
+      try {
+        frontMatter = readNoteFrontMatter(candidates[0]);
+      } catch {
+        frontMatter = null;
+      }
+    } else if (
+      candidates.length > 1 &&
+      !ambiguousBasenameWarnings.has(basename)
+    ) {
+      ambiguousBasenameWarnings.add(basename);
+      console.warn(
+        `[wikilink] Short link [[${basename}]] matches ${candidates.length} notes (${candidates.join(", ")}); leaving it unresolved. Use a full path to disambiguate.`
+      );
     }
-    const file = fs.readFileSync(fullPath, "utf8");
-    const frontMatter = matter(file, matterOptions);
+  }
+  if (!frontMatter) {
+    deadLink = true;
+  } else {
     if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
     }
@@ -206,8 +273,6 @@ function computeAnchorAttributes(filePath, linkTitle) {
     if (frontMatter.data.noteIcon) {
       noteIcon = frontMatter.data.noteIcon;
     }
-  } catch {
-    deadLink = true;
   }
 
   if (deadLink) {
@@ -862,6 +927,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.on("eleventy.before", () => {
     normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
     anchorAttributesCache.clear();
+    noteBasenameIndex.clear();
+    noteBasenameIndexBuilt = false;
+    ambiguousBasenameWarnings.clear();
   });
   eleventyConfig.on("eleventy.after", async () => {
     if (pendingImageJobs.length > 0) {

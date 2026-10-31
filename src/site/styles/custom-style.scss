@@ -19,9 +19,10 @@ body {
    the `kind` frontmatter field (see src/site/notes/notes.11tydata.js).
    ========================================================================== */
 
-/* Fonts: EB Garamond + Marcellus SC ship in src/site/fonts; Caveat and
-   Special Elite (both SIL OFL) were added for handwriting and typewriter.
-   latin + latin-ext subsets keep Romanian diacritics. */
+/* Fonts: EB Garamond (body/print) plus Caveat and Special Elite (SIL OFL)
+   for handwriting and form-entry typewriter accents. Marcellus SC remains
+   shipped but is no longer referenced. latin + latin-ext subsets keep
+   Romanian diacritics. */
 @font-face {
   font-family: 'EB Garamond';
   font-style: normal; font-weight: 100 1000; font-display: swap;
@@ -65,6 +66,7 @@ body {
 /* Tokens. Paper tones double as the `paper:` frontmatter choices:
    cream-worn, aged-white, ledger, manila. */
 .sheet, .board {
+  font-family: 'EB Garamond', Georgia, serif;
   --paper-cream: #f2e7d0;
   --paper-white: #f5f2e9;
   --paper-ledger: #e9e7e1;
@@ -111,8 +113,8 @@ body {
    typography out of the paper. */
 .sheet .sheet-content p,
 .sheet .sheet-content li {
-  font-family: 'Special Elite', 'Courier New', monospace;
-  font-size: 13.5px; line-height: 1.7; color: var(--ink);
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 15px; line-height: 1.7; color: var(--ink);
   margin: 0 0 14px;
   background: none;
   /* The theme justifies body text; on paper sheets that stretches lines,
@@ -120,12 +122,29 @@ body {
   text-align: left;
 }
 .sheet .sheet-content a { color: #6e1f1f; }
+/* Unresolved (no-destination) links: the theme draws them as a pale
+   washed accent, unreadable on paper. Darker, muted ink instead.
+   Scoped to the document layouts - resolved links and ordinary pages
+   keep the theme styling. */
+.sheet a.internal-link.is-unresolved,
+.board a.internal-link.is-unresolved {
+  color: #584740;
+  opacity: 1;
+  text-decoration-color: rgba(88, 71, 64, .45);
+}
+/* Highlights keep the text's original color on paper; the theme forces
+   its light --text-normal, which vanishes on a pale highlight. */
+.sheet mark, .board mark { color: inherit; }
+.sheet mark a.internal-link, .board mark a.internal-link { color: #6e1f1f; }
+.sheet mark a.internal-link.is-unresolved,
+.board mark a.internal-link.is-unresolved { color: #584740; }
 .sheet .sheet-content h1, .sheet .sheet-content h2, .sheet .sheet-content h3,
 .sheet .sheet-content h4, .sheet .sheet-content h5, .sheet .sheet-content h6 {
-  font-family: 'Marcellus SC', serif; color: #3d3a35;
+  font-family: 'EB Garamond', Georgia, serif; color: #3d3a35;
   border-bottom: 1.5px solid rgba(0,0,0,.55);
   margin: 22px 0 10px; padding-bottom: 3px;
-  font-size: 15px; letter-spacing: .05em; font-weight: 400;
+  font-size: 15px; letter-spacing: .06em; font-weight: 600;
+  text-transform: uppercase;
   background: none;
 }
 
@@ -138,29 +157,32 @@ body {
 /* ---------- letter ---------- */
 .sheet-letter { background: var(--paper-cream); --sheet-tilt-default: -0.8deg; transform: rotate(var(--sheet-tilt, -0.8deg)); }
 .sheet-letter .letterhead {
-  text-align: center; font-family: 'Marcellus SC', serif;
+  text-align: center; font-family: 'EB Garamond', Georgia, serif;
+  font-weight: 600; text-transform: uppercase;
   font-size: 17px; letter-spacing: .3em; color: #5a4632;
   border-bottom: 1px solid rgba(0,0,0,.25); padding-bottom: 10px; margin-bottom: 22px;
 }
-.sheet-letter .letter-date { text-align: right; font-size: 13.5px; color: var(--ink-soft); margin-bottom: 18px; }
-.sheet-letter .letter-addr { font-size: 13.5px; line-height: 1.5; margin-bottom: 20px; color: var(--ink); }
+.sheet-letter .letter-date { font-family: 'EB Garamond', Georgia, serif; text-align: right; font-size: 14px; color: var(--ink-soft); margin-bottom: 18px; }
+.sheet-letter .letter-addr { font-family: 'EB Garamond', Georgia, serif; font-size: 14px; line-height: 1.5; margin-bottom: 20px; color: var(--ink); }
 .sheet-letter .signature { font-family: 'Caveat', cursive; font-weight: 600; font-size: 30px; color: var(--hand-ink); margin: 18px 0 0; transform: rotate(-2deg); display: inline-block; }
-.sheet-letter .signature-role { font-family: 'Special Elite', monospace; font-size: 11.5px; color: var(--ink-soft); margin-top: 2px; }
+.sheet-letter .signature-role { font-family: 'EB Garamond', Georgia, serif; font-style: italic; font-size: 13px; color: var(--ink-soft); margin-top: 2px; }
 
 /* ---------- memo ---------- */
 .sheet-memo { background: var(--paper-white); transform: rotate(var(--sheet-tilt, 0.6deg)); }
 .sheet-memo .memo-title {
-  font-family: 'Marcellus SC', serif; font-size: 19px; letter-spacing: .22em;
+  font-family: 'EB Garamond', Georgia, serif; font-weight: 600; text-transform: uppercase;
+  font-size: 19px; letter-spacing: .22em;
   color: #3d3a35; text-align: center; margin-bottom: 20px;
 }
-.sheet-memo .memo-fields { font-family: 'Special Elite', monospace; font-size: 13px; margin-bottom: 20px; }
+.sheet-memo .memo-fields { font-family: 'EB Garamond', Georgia, serif; font-size: 14px; margin-bottom: 20px; }
 .sheet-memo .memo-fields .f { display: flex; gap: 10px; margin-bottom: 7px; }
 .sheet-memo .memo-fields .k { width: 74px; color: var(--ink-soft); letter-spacing: .06em; }
 .sheet-memo .memo-fields .v { flex: 1; border-bottom: 1px dotted rgba(0,0,0,.35); padding-bottom: 2px; }
 .sheet-memo .sheet-content p:last-child { margin-bottom: 64px; }
 .sheet .stamp {
   position: absolute; right: 34px; bottom: 52px;
-  font-family: 'Marcellus SC', serif; font-size: 15px; letter-spacing: .18em;
+  font-family: 'EB Garamond', Georgia, serif; font-weight: 600; text-transform: uppercase;
+  font-size: 15px; letter-spacing: .18em;
   color: var(--sheet-accent); border: 2.5px solid var(--sheet-accent); border-radius: 4px;
   padding: 6px 14px; transform: rotate(-9deg); opacity: .82;
   box-shadow: inset 0 0 0 1.5px rgba(134,55,55,.4);
@@ -191,12 +213,13 @@ body {
 .sheet-article { background: var(--paper-white); transform: rotate(var(--sheet-tilt, 0.3deg)); padding-top: 26px; }
 .sheet-article .art-running {
   display: flex; justify-content: space-between; flex-wrap: wrap; gap: 3px 16px;
-  font-family: 'Marcellus SC', serif; font-size: 10px; letter-spacing: .12em;
+  font-family: 'EB Garamond', Georgia, serif; font-weight: 600; font-size: 11px; letter-spacing: .12em;
   color: #6d6558; text-transform: uppercase;
   border-bottom: 1px solid rgba(0,0,0,.35); padding-bottom: 5px; margin-bottom: 14px;
 }
 .sheet-article .masthead {
-  text-align: center; font-family: 'Marcellus SC', serif; font-size: 34px;
+  text-align: center; font-family: 'EB Garamond', Georgia, serif; font-weight: 600;
+  text-transform: uppercase; font-size: 34px;
   letter-spacing: .1em; color: #26221c; border-bottom: 3px double rgba(0,0,0,.6);
   padding-bottom: 8px; margin-bottom: 12px;
 }
@@ -209,7 +232,7 @@ body {
 .sheet-article .sheet-content { column-count: 2; column-gap: 26px; column-rule: 1px solid rgba(0,0,0,.18); }
 .sheet-article .sheet-content p { font-family: 'EB Garamond', Georgia, serif; font-size: 13.5px; line-height: 1.6; margin: 0 0 10px; text-align: justify; }
 .sheet-article .sheet-content > p:first-child::first-letter {
-  font-family: 'Marcellus SC', serif; font-size: 40px; float: left;
+  font-family: 'EB Garamond', Georgia, serif; font-weight: 600; font-size: 44px; float: left;
   line-height: .85; padding: 3px 8px 0 0; color: var(--sheet-accent);
 }
 @media (max-width: 560px) { .sheet-article .sheet-content { column-count: 1; } }
@@ -225,7 +248,8 @@ body {
   padding-top: 34px;
 }
 .sheet-report .report-title {
-  text-align: center; font-family: 'Marcellus SC', serif;
+  text-align: center; font-family: 'EB Garamond', Georgia, serif;
+  font-weight: 600; text-transform: uppercase;
   font-size: 29px; letter-spacing: .06em; color: #1d1a15;
   border-bottom: 3px solid #1d1a15; padding-bottom: 7px; margin-bottom: 20px;
 }
@@ -234,11 +258,11 @@ body {
 }
 @media (max-width: 560px) { .sheet-report .report-grid { grid-template-columns: 1fr; } }
 .sheet-report .report-grid .cell { display: flex; gap: 8px; align-items: baseline; min-width: 0; }
-.sheet-report .report-grid .k { font-family: 'Marcellus SC', serif; font-size: 12px; letter-spacing: .06em; color: #3d3a35; white-space: nowrap; }
+.sheet-report .report-grid .k { font-family: 'EB Garamond', Georgia, serif; font-weight: 600; text-transform: uppercase; font-size: 12px; letter-spacing: .06em; color: #3d3a35; white-space: nowrap; }
 .sheet-report .report-grid .v { flex: 1; min-width: 0; font-family: 'Caveat', cursive; font-size: 21px; color: var(--hand-ink); border-bottom: 1px solid rgba(0,0,0,.3); line-height: 1.1; padding-bottom: 2px; }
 .sheet-report .report-grid .v.tw { font-family: 'Special Elite', monospace; font-size: 14px; color: var(--ink); }
 .sheet-report .report-incident { font-family: 'Caveat', cursive !important; font-size: 21px !important; line-height: 1.4 !important; color: var(--hand-ink) !important; margin: 12px 0 4px; border-bottom: none !important; letter-spacing: normal !important; }
-.sheet-report .sheet-content p { font-family: 'Caveat', cursive; font-size: 21px; line-height: 1.5; color: var(--hand-ink); margin: 0 0 12px; }
+.sheet-report .sheet-content p { font-family: 'EB Garamond', Georgia, serif; font-size: 15px; line-height: 1.65; color: var(--ink); margin: 0 0 12px; }
 .sheet-report .sheet-content p:last-child { margin-bottom: 72px; }
 /* Redaction bar: visual only - the words remain in the page source. */
 .sheet .rx {
@@ -254,7 +278,8 @@ body {
 .sheet .rx:nth-of-type(4n) { --rx-tilt: -0.9deg; }
 .sheet .stamp-conf {
   position: absolute; right: 18px; top: 26px;
-  font-family: 'Marcellus SC', serif; font-size: 17px; letter-spacing: .22em;
+  font-family: 'EB Garamond', Georgia, serif; font-weight: 600; text-transform: uppercase;
+  font-size: 17px; letter-spacing: .22em;
   color: var(--sheet-accent-lite); border: 3px double var(--sheet-accent-lite); border-radius: 3px;
   padding: 7px 16px; transform: rotate(-14deg); opacity: .62; filter: blur(.3px);
   box-shadow: 0 0 0 1.5px rgba(201,77,77,.22);
@@ -304,15 +329,16 @@ body {
 .board .pin-card {
   position: relative; background: var(--paper-white); padding: 12px 12px 16px;
   box-shadow: 0 4px 10px rgba(0,0,0,.55);
-  font-family: 'Special Elite', monospace; font-size: 10.5px; color: var(--ink); line-height: 1.5;
+  font-family: 'EB Garamond', Georgia, serif; font-size: 12px; color: var(--ink); line-height: 1.5;
 }
 .board .pin-card a { color: #6e1f1f; }
 .board .pin-card.hand { background: var(--paper-ledger); font-family: 'Caveat', cursive; font-size: 16px; line-height: 1.25; color: var(--hand-ink); }
 .board .pin-card.photo { background: #e8e4da; min-height: 110px; display: flex; align-items: center; justify-content: center; }
 .board .pin-card.photo span { font-family: 'EB Garamond', Georgia, serif; font-style: italic; font-size: 11px; color: #8a8172; }
 .board .pin-card.index-tab {
-  background: var(--paper-manila); font-family: 'Marcellus SC', serif;
-  letter-spacing: .12em; font-size: 12px; text-align: center; padding: 18px 10px;
+  background: var(--paper-manila); font-family: 'EB Garamond', Georgia, serif;
+  font-weight: 600; text-transform: uppercase;
+  letter-spacing: .12em; font-size: 13px; text-align: center; padding: 18px 10px;
 }
 .board .r1 { transform: rotate(-2.2deg); } .board .r2 { transform: rotate(1.4deg); }
 .board .r3 { transform: rotate(-0.7deg); } .board .r4 { transform: rotate(2deg); }

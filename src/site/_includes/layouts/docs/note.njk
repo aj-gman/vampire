@@ -1,12 +1,12 @@
 ---
 layout: layouts/note.njk
 ---
-<div class="sheet-wrap narrow"{% if tilt %} style="--sheet-tilt: {{ tilt }}deg;"{% endif %}>
-  <div class="sheet sheet-note{% if paper %} paper-{{ paper }}{% endif %}">
+<div class="sheet-wrap narrow"{% if sheet.tilt %} style="--sheet-tilt: {{ sheet.tilt }}deg;"{% endif %}>
+  <div class="sheet sheet-note{% if sheet.paper %} paper-{{ sheet.paper }}{% endif %}">
     <div class="tape"></div>
     <div class="sheet-content">
       {{ content | safe }}
     </div>
-    {% if footer %}<div class="running-footer" style="left:32px; right:32px;"><span>{{ footer.left }}</span><span>{{ footer.right }}</span></div>{% endif %}
+    {% if sheet.footer %}<div class="running-footer" style="left:32px; right:32px;"><span>{{ sheet.footer.left }}</span><span>{{ sheet.footer.right }}</span></div>{% endif %}
   </div>
 </div>

@@ -1,0 +1,20 @@
+---
+layout: layouts/note.njk
+---
+<div class="sheet-wrap"{% if tilt %} style="--sheet-tilt: {{ tilt }}deg;"{% endif %}>
+  <div class="sheet sheet-report{% if paper %} paper-{{ paper }}{% endif %}">
+    {% if paperclip %}<div class="paperclip"></div>{% endif %}
+    {% if stamp_conf %}<div class="stamp-conf">{{ stamp_conf }}</div>{% endif %}
+    <div class="report-title">{{ report_title or title or page.fileSlug }}</div>
+    {% if report_fields %}<div class="report-grid">
+      {% for f in report_fields %}<div class="cell"><span class="k">{{ f.k }}</span><span class="v{% if f.style %} {{ f.style }}{% endif %}">{{ f.v }}</span></div>
+      {% endfor %}
+    </div>{% endif %}
+    {% if incident %}<p class="report-incident">{{ incident }}</p>{% endif %}
+    <div class="sheet-content">
+      {{ content | safe }}
+    </div>
+    {% if coffee %}<div class="coffee"></div>{% endif %}
+    {% if footer %}<div class="running-footer"><span>{{ footer.left }}</span><span>{{ footer.right }}</span></div>{% endif %}
+  </div>
+</div>

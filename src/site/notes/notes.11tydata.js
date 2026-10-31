@@ -13,11 +13,21 @@ const allSettings = [
 
 module.exports = {
   eleventyComputed: {
+    // Sheet documents: a note's `kind` frontmatter picks a paper layout;
+    // anything without a kind keeps the standard note layout.
     layout: (data) => {
       if (data.tags.indexOf("gardenEntry") != -1) {
         return "layouts/index.njk";
       }
-      return "layouts/note.njk";
+      const sheetLayouts = {
+        letter: "layouts/docs/letter.njk",
+        memo: "layouts/docs/memo.njk",
+        report: "layouts/docs/report.njk",
+        note: "layouts/docs/note.njk",
+        article: "layouts/docs/article.njk",
+        board: "layouts/docs/board.njk",
+      };
+      return sheetLayouts[data.kind] || "layouts/note.njk";
     },
     permalink: (data) => {
       if (data.tags.indexOf("gardenEntry") != -1) {

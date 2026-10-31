@@ -1,17 +1,17 @@
 ---
 layout: layouts/note.njk
 ---
-<div class="sheet-wrap"{% if tilt %} style="--sheet-tilt: {{ tilt }}deg;"{% endif %}>
-  <div class="sheet sheet-memo{% if paper %} paper-{{ paper }}{% endif %}">
-    <div class="memo-title">{{ memo_title or title or page.fileSlug }}</div>
-    {% if memo_fields %}<div class="memo-fields">
-      {% for f in memo_fields %}<div class="f"><span class="k">{{ f.k }}</span><span class="v">{{ f.v }}</span></div>
+<div class="sheet-wrap"{% if sheet.tilt %} style="--sheet-tilt: {{ sheet.tilt }}deg;"{% endif %}>
+  <div class="sheet sheet-memo{% if sheet.paper %} paper-{{ sheet.paper }}{% endif %}">
+    <div class="memo-title">{{ sheet.memo_title or title or page.fileSlug }}</div>
+    {% if sheet.memo_fields %}<div class="memo-fields">
+      {% for f in sheet.memo_fields %}<div class="f"><span class="k">{{ f.k }}</span><span class="v">{{ f.v }}</span></div>
       {% endfor %}
     </div>{% endif %}
     <div class="sheet-content">
       {{ content | safe }}
     </div>
-    {% if stamp %}<div class="stamp">{{ stamp }}</div>{% endif %}
-    {% if footer %}<div class="running-footer"><span>{{ footer.left }}</span><span>{{ footer.right }}</span></div>{% endif %}
+    {% if sheet.stamp %}<div class="stamp">{{ sheet.stamp }}</div>{% endif %}
+    {% if sheet.footer %}<div class="running-footer"><span>{{ sheet.footer.left }}</span><span>{{ sheet.footer.right }}</span></div>{% endif %}
   </div>
 </div>

@@ -417,6 +417,17 @@ body {
 /* A note that closes the document still leaves room for the running footer. */
 .sheet .sheet-content > .callout:last-child { margin-bottom: 72px; }
 
+/* Plain blockquotes inside sheets keep the theme's dark box; the sheet
+   ink color made its text unreadable, so the text goes light instead.
+   Links inherit the light color and stay identifiable by their underline. */
+.sheet blockquote, .board blockquote,
+.sheet .sheet-content blockquote p, .board blockquote p,
+.sheet .sheet-content blockquote li, .board blockquote li { color: #f0ece2; }
+.sheet blockquote a.internal-link, .board blockquote a.internal-link,
+.sheet blockquote a.internal-link.is-unresolved, .board blockquote a.internal-link.is-unresolved {
+  color: inherit; text-decoration-color: rgba(240, 236, 226, .55);
+}
+
 /* ---------- mobile: keep the compact metrics the desktop just outgrew ---------- */
 @media (max-width: 560px) {
   .sheet { padding: 34px 40px 46px; }

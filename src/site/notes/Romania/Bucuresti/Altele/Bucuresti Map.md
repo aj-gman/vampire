@@ -17,16 +17,6 @@ Map of [[Romania/Bucuresti/Altele/București\|București]] containing the [[Roma
 
 
 
-```leaflet
-id: buc-map
-height: 500px
-lat: 44.435506
-long: 26.102525
-minZoom: 5
-maxZoom: 18
-defaultZoom: 13
-unit: kilometers
-scale: 1
-draw: false
-darkMode: true
-```
+<iframe src="/bucuresti-map/" title="Bucuresti Map" style="width:100%;height:500px;border:0;border-radius:8px;" loading="lazy"></iframe>
+
+[Open the map in full page](/bucuresti-map/)

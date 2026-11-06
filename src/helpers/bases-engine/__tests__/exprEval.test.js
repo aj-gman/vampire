@@ -91,8 +91,14 @@ describe("exprEval", () => {
 					mtime: "2024-06-01",
 				},
 			};
-			expect(evaluate("file.ctime", note)).toBe("2024-01-01");
-			expect(evaluate("file.mtime", note)).toBe("2024-06-01");
+			// The engine coerces ISO date strings to Date objects (local
+			// timezone), so assert the parsed calendar date, not a string.
+			const ctime = evaluate("file.ctime", note);
+			const mtime = evaluate("file.mtime", note);
+			expect(ctime).toBeInstanceOf(Date);
+			expect(mtime).toBeInstanceOf(Date);
+			expect([ctime.getFullYear(), ctime.getMonth(), ctime.getDate()]).toEqual([2024, 0, 1]);
+			expect([mtime.getFullYear(), mtime.getMonth(), mtime.getDate()]).toEqual([2024, 5, 1]);
 		});
 	});
 

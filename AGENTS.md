@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Consolidated agent guidance for this repository: deployment and build facts, site structure, workflow rules, and the full skill library. Consolidated on 31 Oct 2026 from `.clinerules/agent-instructions.md`, the previous `AGENTS.md`, `skills-lock.json`, and the skills under `.agents/skills/` and `skills/` (originals left in place).
+Consolidated agent guidance for this repository: deployment and build facts, site structure, workflow rules, and the full skill library. Consolidated on 31 Oct 2026 from `.clinerules/agent-instructions.md`, the previous `AGENTS.md`, `skills-lock.json`, and the skills under `.agents/skills/` and `skills/`; those originals were removed during consolidation and only `skills/garden-plugin-author/` remains in the repo.
 
 ## Boundaries and precedence (owner rules, approved 31 Oct 2026)
 
@@ -58,7 +58,7 @@ These rules outrank every technical instruction and example below. This file is 
 
 ### Deployment
 - Never run production deploy commands directly - deployment is automatic on push to main.
-- Treat vercel.json as authoritative for redirects/headers/build settings where it applies - patch the relevant key only, don't regenerate the file from scratch.
+- vercel.json only disables Vercel builds (its `ignoreCommand`); it configures no redirects, headers or build settings.
 
 ### Style
 - Keep commit messages and change summaries short (one line, imperative mood).

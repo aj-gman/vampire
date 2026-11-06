@@ -18,7 +18,7 @@ Exceptiile ar face sistemul neconsecvent.
 - Cenzurarea [[Core/Sisteme/Personaj/Fiara\|Bestiei]]
 - 
 
-The result of [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]] research and experimenting, this [Quasi-Discipline](https://gmantabletops.miraheze.org/wiki/Category:Disciplines#Quasi-Disciplines "Category:Disciplines") allows those Kindred to circumvent their ontological state of being, developing resistances to things thought impossible. Each Coil allows the scholar to develop so-called Scales, which are specific rituals that, while torturous and risky, can grant non-scholars almost the same capabilities. Coils are determined by Vices, which the Dragons seek to control and overpower.
+The result of [[Core/Lore Universal/Jurăminte/Ordo Dracul\|Ordo Dracul]] research and experimenting, this Quasi-Discipline allows those Kindred to circumvent their ontological state of being, developing resistances to things thought impossible. Each Coil allows the scholar to develop so-called Scales, which are specific rituals that, while torturous and risky, can grant non-scholars almost the same capabilities. Coils are determined by Vices, which the Dragons seek to control and overpower.
 
 **Coils are a specialized, more scientific form of [[Magick\|Magick]].** Coils last longer, are harder to obtain and are less inclusive, being focused on overcoming the vampiric condition's drawbacks.
 

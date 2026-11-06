@@ -168,7 +168,7 @@ describe("renderViews", () => {
 	});
 
 	describe("array values", () => {
-		it("renders arrays joined with comma-space", () => {
+		it("renders tag arrays as tag links", () => {
 			const rows = [
 				makeRow("Test", "/notes/test/", {
 					tags: ["fiction", "classic"],
@@ -181,6 +181,29 @@ describe("renderViews", () => {
 							type: "table",
 							name: "Arrays",
 							order: ["file.name", "tags"],
+						},
+						rows,
+					),
+				]),
+			);
+			expect(result).toContain('<a class="tag"');
+			expect(result).toContain("#fiction");
+			expect(result).toContain("#classic");
+		});
+
+		it("renders non-tag arrays joined with comma-space", () => {
+			const rows = [
+				makeRow("Test", "/notes/test/", {
+					aliases: ["fiction", "classic"],
+				}),
+			];
+			const result = renderViews(
+				makeQueryResult([
+					singleView(
+						{
+							type: "table",
+							name: "Aliases",
+							order: ["file.name", "aliases"],
 						},
 						rows,
 					),

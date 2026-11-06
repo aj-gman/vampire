@@ -7,17 +7,17 @@
 
 
 **RO: Lancea, Biserica**
-**Covenant of religious worshippers, centered around the figure of Longinus, the Roman centurion that stabbed Jesus on the cross and repented afterwards[^1]. The members of the Lancea are pastors, priests and soldiers but, above all, they are shepherds, guiding God's flock, both Kindred and kine, away from sin, although this can often result in misguided responses derived from their own trauma and principles. The Lancea is the most content with [the state of undead](https://gmantabletops.miraheze.org/wiki/The_Curse "The Curse"), seeing themselves inevitably cursed in order to rise above their condition and please God. They are loyal to a fault, willing to die for their cause and for their brothers and sisters with the belief that it serves a higher purpose.**
+**Covenant of religious worshippers, centered around the figure of Longinus, the Roman centurion that stabbed Jesus on the cross and repented afterwards[^1]. The members of the Lancea are pastors, priests and soldiers but, above all, they are shepherds, guiding God's flock, both Kindred and kine, away from sin, although this can often result in misguided responses derived from their own trauma and principles. The Lancea is the most content with the state of undead, seeing themselves inevitably cursed in order to rise above their condition and please God. They are loyal to a fault, willing to die for their cause and for their brothers and sisters with the belief that it serves a higher purpose.**
 
 #### Core
-- **Advantage:** [Theban Sorcery](https://gmantabletops.miraheze.org/wiki/Blood_Sorcery#Theban_Sorcery "Blood Sorcery"), a form of [Blood Sorcery](https://gmantabletops.miraheze.org/wiki/Blood_Sorcery "Blood Sorcery")
+- **Advantage:** Theban Sorcery, a form of Blood Sorcery
 - **Vibe:** Sanctified, Earnest, Penitent, Zealous, Guilty, Holistic, Decided, Judgmental
 - **Stereotypes:** Friendly Librarian, Profane Priest, Obsessed Murderer, Remorseful Criminal, Loyal Soldier, Priest with a Shotgun, Tempting Nun, Wise Monk, AA mediator, Nice Mayor of a Small Religious Town
 - **Album Theme:** _[Yours Until The War Is Over, by Amigo the Devil](https://www.youtube.com/watch?v=iWUP5ymLvlg)_
 
 #### Fun Facts
 - The Lancea in any given territory have the largest access to knowledge, especially history, even if it is often twisted to cover up issues that the Lancea et Sanctum might have had. Their territories are safe to Kindred because their punishments are incredibly harsh. They withhold things of valor, relics and knowledge, from other Kindred that they don't find worthy of access.
-- An important matter of the Lancea is preventing heresy within the Covenant and in other Covenants. They often come in conflict with [the Crones](https://gmantabletops.miraheze.org/wiki/Circle_of_the_Crones "Circle of the Crones"), which is why the latter's practices are punishable by Final Death in Lancea territories.
+- An important matter of the Lancea is preventing heresy within the Covenant and in other Covenants. They often come in conflict with the Crones, which is why the latter's practices are punishable by Final Death in Lancea territories.
 - There is no set religion behind the Lancea, even if the myth originates from Christianity. Many scholars of many faiths think of themselves as guilty (especially when the idea that they're creatures of the night is taken into account), so the Lancea's ranks are filled with believers from across the world. Nevertheless, they observe certain Major Apostolica
 
 ## Between the Covenants

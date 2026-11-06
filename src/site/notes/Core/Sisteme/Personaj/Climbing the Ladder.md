@@ -3,7 +3,7 @@
 ---
 
 
-=== Starter Questions ===
+### Starter Questions
 
 * Does your character think of themselves as good or evil?
 * Do you think your character is good or evil?
@@ -17,7 +17,7 @@
 * • How close to their Beast is your character?
 * • Does your character miss their mortality?
 
-=== Climbing the Ladder ===
+### Climbing the Ladder
 
 * Confront Vulnerability - A moment when you were most vulnerable or had most to lose (hubris). An ideal moment to learn or become fascinated with the supernatural. For a Coterie moment, why did you join the group?
 * Believe Someone Has Answers - Dizzy with questions, you stumble upon somebody who had the answers. Who took initiative in the group, even if they were proved wrong afterwards?

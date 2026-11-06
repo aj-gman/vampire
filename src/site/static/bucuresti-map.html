@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bucuresti Map</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  html, body { margin: 0; padding: 0; height: 100%; background: #1a1a1a; }
+  #map { height: 100%; width: 100%; }
+  /* darkMode from the note's leaflet block: the Obsidian Leaflet plugin
+     darkens standard tiles with a CSS filter rather than using dark tiles */
+  .leaflet-tile { filter: brightness(0.6) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3) brightness(0.7); }
+  .leaflet-control-attribution { background: rgba(26,26,26,0.8); color: #aaa; }
+  .leaflet-control-attribution a { color: #d7a1a1; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  // Settings sourced from the note's Obsidian leaflet block
+  // (lat 44.435506, long 26.102525, minZoom 5, maxZoom 18, defaultZoom 13,
+  // darkMode true). No markers exist in the source material.
+  var map = L.map("map", {
+    center: [44.435506, 26.102525],
+    zoom: 13,
+    minZoom: 5,
+    maxZoom: 18
+  });
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    minZoom: 5,
+    maxZoom: 18
+  }).addTo(map);
+</script>
+</body>
+</html>

@@ -2,14 +2,14 @@
 {"dg-publish":true,"dg-path":"Lore/Jurăminte/Invictus.md","permalink":"/lore/juraminte/invictus/","tags":["#jurământ","#taină"],"dg-note-properties":{"tags":["#jurământ","#taină"],"kind":"report","report_title":"Despre \"problema\" Invictus","report_fields":[{"k":"Cazuistică:","v":"Triburi, Clanuri și alte organizații","style":"tw"},{"k":"Nivel:","v":"Important"},{"k":"Analist:","v":"[[Răducanu|Mircea Răducanu]]"},{"k":"Alte note:","v":"N/A"}],"incident":"incidente pseudoteroriste plauzibil conectate","stamp_conf":"CONFIRMAT","paperclip":true,"coffee":false,"footer":{"left":"Sub egida [[Sworn of Mysteries|OSÂNDITULUI MISTERELOR]]","right":"și a [[Dracula|MAI MARELUI-VOIEVOD]]"}}}
 ---
 
-==Invictus este Întâia Moșie, singurul descendent legitim al [Camarillei Romane](https://whitewolf.fandom.com/wiki/Camarilla_(VTR)).==
+## Invictus este Întâia Moșie, singurul descendent legitim al Camarillei Romane.
 Acesta este unicul fapt ce și-l însușesc cu mândrie, anume că ei ar fi primii. Dacă e adevărat sau nu, rămâne de văzut.
 
 [[Core/Lore Universal/Tradițiile/Mascarada\|Tăcerea]] este [[Core/Lore Universal/Tradițiile/Tradițiile\|Întâia Tradiție]] și cea mai valoroasă dintre [[Core/Lore Universal/Tradițiile/Tradițiile\|cele Trei]] pentru [[Core/Lore Universal/Jurăminte/Invictus\|Invictus]]. Ei sunt cei mai capabili sa O păstreze datorita experientei acumulate, dar ei sunt cei ce o pot valorifica cel mai mult. [[Core/Lore Universal/Jurăminte/Invictus\|Invictus]], fără doar și poate, se asociază strâns cu puterea temporala, instituțiile [[Core/Lore Universal/Specii/Om\|Oilor]].
 
 Ierarhia este cel mai valoros lucru intre [[Core/Lore Universal/Jurăminte/Invictus\|Lorzi]]. Fie că e monarhie, dictatura, corporație sau crimă organizată, ierarhia domină modul de operare al acestora. Din acest motiv, sunt deseori antagonizați de [[Core/Lore Universal/Jurăminte/Mișcarea Cartiană\|Cartieni]]. 
 
-În unele teritorii, [[Core/Lore Universal/Jurăminte/Invictus\|Invictus]] sunt strâns aliați cu [[Core/Lore Universal/Jurăminte/Lancea et Sanctum\|Lancea]], aceasta din urmă fiind considerată a Doua Moșie, [apărută abia cu câteva decenii înainte](https://en.wikipedia.org/wiki/Christianity_as_the_Roman_state_religion) de căderea [Camarillei Romane](https://whitewolf.fandom.com/wiki/Camarilla_(VTR)).
+În unele teritorii, [[Core/Lore Universal/Jurăminte/Invictus\|Invictus]] sunt strâns aliați cu [[Core/Lore Universal/Jurăminte/Lancea et Sanctum\|Lancea]], aceasta din urmă fiind considerată a Doua Moșie, [apărută abia cu câteva decenii înainte](https://en.wikipedia.org/wiki/Christianity_as_the_Roman_state_religion) de căderea Camarillei Romane).
 
 Concret, [[Core/Lore Universal/Jurăminte/Invictus\|Invictus]] este un #jurământ al antreprenorilor, al spionilor, al politicienilor și bișnițarilor. Deși se pot întruchipa drept [Princepele machiavellian](https://ro.wikipedia.org/wiki/Principele_(Machiavelli)) adesea, depind foarte mult de fragila lor meritocrație. 
 

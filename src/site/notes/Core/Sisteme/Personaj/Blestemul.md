@@ -2,13 +2,13 @@
 {"dg-publish":true,"dg-path":"Reguli/Personaj/Blestemul.md","permalink":"/reguli/personaj/blestemul/","dg-note-properties":{"wip":"tradus"}}
 ---
 
-After being Embraced, the Kindred is caught in a state of limbo, between life and death, in what the larger supernatural society call "unlife". In order to survive, they must sap the essence from others by draining their blood and reforming it into **Vitae**. Vitae is incredibly potent, being used in [Disciplines](https://gmantabletops.miraheze.org/wiki/Category:Disciplines "Category:Disciplines"), [Blood Sorcery](https://gmantabletops.miraheze.org/wiki/Blood_Sorcery "Blood Sorcery") and other supernatural endeavors. It is also primarily responsible for creating Ghouls and Revenants. As one grows older, their dependance on blood increases, but so do their powers - this is marked by their Blood Potency, which determines how powerful their abilities are, but also how much they have to feed to maintain that. Elders gain pennies on the dollar when consuming mortals: the only way to quench their thirst is to consume Vitae in its pure form, by draining vampires.
+After being Embraced, the Kindred is caught in a state of limbo, between life and death, in what the larger supernatural society call "unlife". In order to survive, they must sap the essence from others by draining their blood and reforming it into **Vitae**. Vitae is incredibly potent, being used in Disciplines, Blood Sorcery and other supernatural endeavors. It is also primarily responsible for creating Ghouls and Revenants. As one grows older, their dependance on blood increases, but so do their powers - this is marked by their Blood Potency, which determines how powerful their abilities are, but also how much they have to feed to maintain that. Elders gain pennies on the dollar when consuming mortals: the only way to quench their thirst is to consume Vitae in its pure form, by draining vampires.
 
 ### Banes
 
-The blessing of immortality comes with a strong cost besides the need for blood. Vampires cannot go out in the sun because their flesh begins to burn. They are also incredibly susceptible to fire. There are some ways to ameliorate the Banes ([e.g. Blood Sorcery](https://gmantabletops.miraheze.org/wiki/Blood_Sorcery#Protection "Blood Sorcery")), but it is near impossible to completely get rid of one's banes, although [the Dragons](https://gmantabletops.miraheze.org/wiki/Ordo_Dracul "Ordo Dracul") are trying to do just that through their [Coils](https://gmantabletops.miraheze.org/wiki/Coils_of_the_Dragon "Coils of the Dragon").
+The blessing of immortality comes with a strong cost besides the need for blood. Vampires cannot go out in the sun because their flesh begins to burn. They are also incredibly susceptible to fire. There are some ways to ameliorate the Banes (e.g. Blood Sorcery), but it is near impossible to completely get rid of one's banes, although the Dragons are trying to do just that through their Coils.
 
-Besides this, all [Clans](https://gmantabletops.miraheze.org/wiki/Category:Clans "Category:Clans") and Bloodlines have additional banes specific to their own Curse. Furthermore, losing Humanity grants you additional banes that are more mundane than those of all Kindred (e.g. becoming afraid of crosses, silver dealing aggravated damage, getting confused at crossroads).
+Besides this, all Clans and Bloodlines have additional banes specific to their own Curse. Furthermore, losing Humanity grants you additional banes that are more mundane than those of all Kindred (e.g. becoming afraid of crosses, silver dealing aggravated damage, getting confused at crossroads).
 
 |   |   |   |   |
 |---|---|---|---|
@@ -39,13 +39,10 @@ Damage from Sunlight occurs with a Frequency that depends on one's blood potency
 
 ### Torpor
 
-See Humanity for how long you fall asleep for if you unwillingly go into torpor because of [damage](https://gmantabletops.miraheze.org/wiki/Damage#Taking_Damage "Damage").
+See Humanity for how long you fall asleep for if you unwillingly go into torpor because of damage.
 
 What happens if you voluntarily go into torpor? Big sleep.
 
-|   |
-|---|
-|This page (or section) is a **work in progress** by its author(s) and should not be considered final.|
 
 ## The Beast
 
@@ -53,9 +50,6 @@ What happens if you voluntarily go into torpor? Big sleep.
 
 If you don't satiate that shit using Vitae, you go in a frenzy.
 
-|   |
-|---|
-|This page (or section) is a **work in progress** by its author(s) and should not be considered final.|
 
 #### Feeding
 
@@ -66,14 +60,8 @@ How to feed in two easy steps.
 - **Hope He Wakes Up Tomorrow: d10 Vitae**
 - **Exsanguination: 2d10 Vitae**
 
-|   |
-|---|
-|This page (or section) is a **work in progress** by its author(s) and should not be considered final.|
 
 ### Humanity
 
-|   |
-|---|
-|This page (or section) is a **work in progress** by its author(s) and should not be considered final.|
 
 Detachment: You're losing The Man. Managing Humanity

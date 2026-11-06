@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Lore/Jurăminte/Ordo Dracul.md","permalink":"/lore/juraminte/ordo-dracul/","tags":["jurământ"],"dg-note-properties":{"tags":["jurământ"],"wip":"tradus"}}
 ---
 
-==Ordinul, Dragonii, Ordinul Dragonului==
+## Ordinul, Dragonii, Ordinul Dragonului
 Covenant of vampire scholars and thaumaturges using their quasi-Disciplines known as "Coils" in order to master the vampiric condition. Often isolated from the greater vampiric society, the Ordo Dracul claim to descend from the great Dracula, following in his footsteps to achieve the Great Work.
 
 #### Core
@@ -23,7 +23,7 @@ Covenant of vampire scholars and thaumaturges using their quasi-Disciplines know
 
 The Bucharest Lodge regards itself as the capital, due to the historical ties that bind. It is said that the Dragon himself resides in this chapter, although any Kindred who dares explore that ends up more Damned than before.
 
-The immense power granted by this political-religious specter of the covenant progeny has <mark style="background: [[FF5582A6\|FF5582A6]];">cemented Bucharest as a city of the Ordo Dracul, with olden rites and clear hierarchies</mark>.
+The immense power granted by this political-religious specter of the covenant progeny has <mark style="background: #FF5582A6;">cemented Bucharest as a city of the Ordo Dracul, with olden rites and clear hierarchies</mark>.
 - *Assign each Player Character a hidden value from 1 to 10, 1 being the closest to the Grand Architect and 10 being the farthest away.* 
 
 The Voivodes of Ordo Dracul do not care about appeasing the other covenants, but they find value in pitting them against one another and in giving them false seats at the decision-making table. The Order has survived in various configurations since the failure of the **Carthian Revolution of 1848**.

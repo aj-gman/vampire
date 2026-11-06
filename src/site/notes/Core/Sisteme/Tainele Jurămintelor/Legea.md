@@ -43,18 +43,20 @@ Nu poți pur și simplu să folosești Legea, la fel cum nu poți stăpâni [[Bl
 - expiră,
 - vampirul care a stabilit-o suferă moartea finală.
 
-''<small>"Carthian Law is unique among the five covenant practices. To get a little technical, supernatural powers in Vampire: The Requiem usually have three components: intent (the effect), action (what you do to make that effect happen), and payment (what it costs to perform that action). This applies to everything from waking up for the night to Crúac rites. For example, Invictus Oaths — which share some DNA with Carthian Law — require an agreement between two characters to provide particular benefits (intent), the signing of a contract (action), and a behavioral constraint or downside (payment). But Carthian Law just works. It has intent, but apart from its specifically democratic effects, it requires no action, and it usually exacts no payment. This is both its greatest benefit and a bit of a narrative snag."<ref>[https://www.drivethrurpg.com/en/product/491569/fire-revolution-carthians Fire & Revolution: Carthians], pg. 101</ref></small>''
+> "Carthian Law is unique among the five covenant practices. To get a little technical, supernatural powers in Vampire: The Requiem usually have three components: intent (the effect), action (what you do to make that effect happen), and payment (what it costs to perform that action). This applies to everything from waking up for the night to Crúac rites. For example, Invictus Oaths — which share some DNA with Carthian Law — require an agreement between two characters to provide particular benefits (intent), the signing of a contract (action), and a behavioral constraint or downside (payment). But Carthian Law just works. It has intent, but apart from its specifically democratic effects, it requires no action, and it usually exacts no payment. This is both its greatest benefit and a bit of a narrative snag."[^16]
 
-== Example Legislation ==
+[^16]: [Fire & Revolution: Carthians](https://www.drivethrurpg.com/en/product/491569/fire-revolution-carthians), pg. 101
 
-* '''[[Roman Constitution\|Roman Constitution]]'''
-* '''Beast of Law''' '''(●●)''' - Even your Beast in a Frenzy, when attempting to break Carthian Law, may reconsider the action if the Player Character succeeds on a Resolve + Carthian Status - Blood Potency.
-* '''Birth Control (●●●)''' - All attempts at Embrace automatically fail and revenants do not spawn as effect of Kindred negligence.
-* '''Breaking Bread (●●●)''' - If attending one's Domain at their invitation, whoever becomes needlessly rude or hostile receives their Carthian Status in [[Core/Sisteme/Conflictul#Taking Damage\|Superficial Damage]] for an entire minute (~20 turns).
-* '''Private Property (●●●)'''
-* '''Legal Guardian (●)'''
-* '''Rules of Engagement (●●●)'''
-* '''Coda against Sorcery (● to ●●●●●)'''
+## Example Legislation
+
+* **[[Roman Constitution\|Roman Constitution]]**
+* **Beast of Law** **(●●)** - Even your Beast in a Frenzy, when attempting to break Carthian Law, may reconsider the action if the Player Character succeeds on a Resolve + Carthian Status - Blood Potency.
+* **Birth Control (●●●)** - All attempts at Embrace automatically fail and revenants do not spawn as effect of Kindred negligence.
+* **Breaking Bread (●●●)** - If attending one's Domain at their invitation, whoever becomes needlessly rude or hostile receives their Carthian Status in [[Core/Sisteme/Conflictul#Taking Damage\|Superficial Damage]] for an entire minute (~20 turns).
+* **Private Property (●●●)**
+* **Legal Guardian (●)**
+* **Rules of Engagement (●●●)**
+* **Coda against Sorcery (● to ●●●●●)**
 
 [^1]: Fire & Revolution: Carthians, pag. 49.
 [^2]: Excepțiile există, dar sunt rare și cer, de regulă, o voință enormă.
